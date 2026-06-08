@@ -68,6 +68,14 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # Romani, Slavic/Curtin, Indigenous American collections
+    ("romani_groome_en",        "Francis Hindes Groome",                   "en", "Gutenberg #71092 (Gypsy Folk-Tales, 1899)"),
+    ("curtin_slavic_en",        "Jeremiah Curtin",                         "en", "Gutenberg #50011 (Myths & Folk-tales: Russians/W.Slavs/Magyars, 1890)"),
+    ("iroquois_cornplanter_en","Canfield (narr. Cornplanter/Seneca elder)","en", "Gutenberg #58228 (Legends of Iroquois, 1902)"),
+    ("seneca_parker_en",        "Arthur C. Parker [SENECA AUTHOR]",        "en", "Gutenberg #61477 (Seneca Myths & Folk Tales, 1923) — INDIGENOUS"),
+    ("eskimo_rasmussen_en",     "Knud Rasmussen (partly Inuit)",           "en", "Gutenberg #28932 (Eskimo Folk-Tales, 1921)"),
+    ("algonquin_young_en",      "Egerton Ryerson Young [provenance flagged]","en","Gutenberg #10891 (Algonquin Indian Tales, 1903)"),
+
         # African American, Māori, Nigerian, Zulu collections
     ("uncle_remus_songs_en",  "Joel Chandler Harris [colonial framing flagged]","en", "Gutenberg #2306 (Uncle Remus: Songs & Sayings, 1881)"),
     ("uncle_remus_nights_en", "Joel Chandler Harris [colonial framing flagged]","en", "Gutenberg #26429 (Nights With Uncle Remus, 1883)"),

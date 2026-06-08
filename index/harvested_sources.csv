@@ -1,5 +1,6 @@
 collection,author,language,culture,source
 aesop_fables_en,Aesop (trans. George Fyler Townsend),en,Classical (Aesop),"Gutenberg #28 — Aesop's Fables (Townsend trans., 1887)"
+algonquin_young_en,"Egerton Ryerson Young [Methodist missionary, provenance flagged]",en,Algonquin,"Gutenberg #10891 — Algonquin Indian Tales (Young, 1903)"
 arabian_nights_en,Kate Douglas Wiggin & Nora Smith (eds.),en,Arabian,"Gutenberg #20916 — The Arabian Nights: Their Best-Known Tales (Wiggin/Smith eds., 1909)"
 armenian_seklemian_en,A. G. Seklemian,en,Armenian,"Gutenberg #46944 — The Golden Maiden and Other Folk Tales Told in Armenia (Seklemian, 1898)"
 basque_webster_en,Wentworth Webster,en,Basque,"Gutenberg #34902 — Basque Legends (Webster, 1877)"
@@ -12,11 +13,13 @@ ceylon_parker_v3_en,Henry Parker,en,Sinhalese (Ceylon),"Gutenberg #58889 — Vil
 cherokee_mooney_en,James Mooney (Bureau of American Ethnology),en,Cherokee (North America),"Gutenberg #45634 — Myths of the Cherokee, 19th Annual Report BAE (Mooney, 1900)"
 chinese_wilhelm_en,Richard Wilhelm (trans. Frederick Martens),en,Chinese,"Gutenberg #29939 — The Chinese Fairy Book (Wilhelm, 1921)"
 cossack_bain_en,R. Nisbet Bain,en,Russian/Ukrainian,"Gutenberg #29672 — Cossack Fairy Tales and Folk Tales (Bain, 1894)"
+curtin_slavic_en,Jeremiah Curtin,en,Slavic (Russian/W.Slav/Magyar),"Gutenberg #50011 — Myths & Folk-tales of Russians, W.Slavs & Magyars (Curtin, 1890)"
 czech_fillmore_en,Parker Fillmore,en,Czech,Gutenberg #32217
 czech_folk_tales_en,Bozena Nemcova et al.,en,Czech,Gutenberg #52596
 dutch_griffis_en,William Elliot Griffis,en,Dutch,"Gutenberg #7871 — Dutch Fairy Tales for Young Folks (Griffis, 1918)"
 english_jacobs_en,auto,en,auto,Gutenberg #7439 — English Fairy Tales (Jacobs 1890)
 english_jacobs_more_en,auto,en,auto,Gutenberg #14241 — More English Fairy Tales (Jacobs 1894)
+eskimo_rasmussen_en,Knud Rasmussen (partly Greenlandic Inuit),en,Inuit/Eskimo,"Gutenberg #28932 — Eskimo Folk-Tales (Rasmussen, 1921)"
 finnish_eivind_en,R. Eivind (Kalevala adaptation),en,Finnish,"Gutenberg #24948 — Finnish Legends for English Children (Eivind, c1893)"
 flemish_coster_en,"Charles de Coster (trans. Harold Taylor, 1920)",en,Belgian/Flemish,"Gutenberg #37668 — Flemish Legends (de Coster, trans. 1920)"
 french_cosquin_fr,Emmanuel Cosquin,fr,French,"Gutenberg #57892 — Contes populaires de Lorraine (Cosquin, 1886)"
@@ -57,6 +60,7 @@ irish_jacobs_celtic_en,Joseph Jacobs,en,Irish,"Gutenberg #35862 — Celtic Folk 
 irish_jacobs_more_en,Joseph Jacobs,en,Irish,"Gutenberg #34453 — More Celtic Fairy Tales (Jacobs, 1894)"
 irish_larminie_en,William Larminie,en,Irish,"Gutenberg #57858 — West Irish Folk-Tales and Romances (Larminie, 1893)"
 irish_yeats_folk_en,W. B. Yeats (ed.),en,Irish,"Gutenberg #33887 — Fairy and Folk Tales of the Irish Peasantry (Yeats ed., 1888)"
+iroquois_cornplanter_en,"William W. Canfield (narrated by Cornplanter, Seneca elder)",en,Iroquois/Seneca,"Gutenberg #58228 — Legends of the Iroquois (Cornplanter, 1902)"
 italian_basile_en,Giambattista Basile (trans. anon.),en,Italian,"Gutenberg #2198 — Stories from the Pentamerone (Basile, orig. 1634; trans. pre-1929)"
 italian_busk_en,Rachel Harriette Busk,en,Italian,"Gutenberg #48771 — Roman Legends: Fables and Folk-lore of Rome (Busk, 1877)"
 italian_crane_en,Thomas Frederick Crane,en,Italian,"Gutenberg #23634 — Italian Popular Tales (Crane, 1885)"
@@ -78,6 +82,7 @@ persian_lorimer_en,D. L. R. & E. O. Lorimer,en,Persian,"archive.org cu3192402990
 philippine_folk_tales_en,Clara Kern Bayliss et al.,en,Filipino,"Gutenberg #12814 — Philippine Folk-Tales (Bayliss et al., 1908)"
 polish_biggs_en,Maude Ashurst Biggs (trans. from Gliński),en,Polish,"Gutenberg #36668 — Polish Fairy Tales (Biggs, 1920)"
 portuguese_eells_azores_en,Elsie Spicer Eells,en,Portuguese,"Gutenberg #34431 — The Islands of Magic: Legends, Folk and Fairy Tales from the Azores (Eells, 1922)"
+romani_groome_en,Francis Hindes Groome [respected Romani scholar],en,Romani (Roma),"Gutenberg #71092 — Gypsy Folk-Tales (Groome, 1899)"
 romanian_bird_beast_en,M. Gaster (trans.),en,Romanian,"Gutenberg #43059 — Rumanian Bird and Beast Stories (Gaster, 1915)"
 romanian_kremnitz_en,Mite Kremnitz (trans.),en,Romanian,"Gutenberg #20552 — Roumanian Fairy Tales (Kremnitz, 1885)"
 russian_blumenthal_en,Verra Xenophontovna Kalamatiano de Blumenthal,en,Russian,"Gutenberg #12851 — Folk Tales from the Russian (Blumenthal, 1903)"
@@ -86,6 +91,7 @@ russian_ralston_en,W. R. S. Ralston,en,Russian,"Gutenberg #22373 — Russian Fai
 russian_story_book_en,Richard Wilson,en,Russian,"Gutenberg #48605 — The Russian Story Book (Wilson, 1916)"
 scottish_campbell_en,John Gregorson Campbell,en,Scottish,"Gutenberg #67609 — Clan Traditions and Popular Tales of the Western Highlands (Campbell, 1895)"
 scottish_grierson_en,auto,en,auto,Gutenberg #37532 — The Scottish Fairy Book (Grierson 1910)
+seneca_parker_en,Arthur C. Parker [SENECA AUTHOR — INDIGENOUS],en,Seneca/Iroquois,"Gutenberg #61477 — Seneca Myths and Folk Tales (Parker, 1923) — INDIGENOUS AUTHOR"
 serbian_fairy_tales_en,Anon.,en,Serbian,Gutenberg #67191
 serbian_mijatovich_en,Madame Elodie Mijatovich,en,Serbian,Gutenberg #45321
 shan_griggs_en,William C. Griggs,en,Shan (Burma),"Gutenberg #32375 — Shan Folk Lore Stories from the Hill and Water Country (Griggs, 1902)"

@@ -60,7 +60,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [ ] Lithuanian
 - [ ] Latvian
 - [ ] Estonian
-- [ ] Romani (Roma) — be especially mindful of source framing (see colonial note)
+- [~] Romani (Roma) → romani_groome_en (135 tales; Groome 1899 — respected Romani scholar); no native-authored PD English collection found
 
 ## Caucasus
 - [x] Armenian → armenian_seklemian_en (30 tales; Seklemian 1898)
@@ -134,9 +134,9 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 (Heightened colonial-source vigilance — see note. Prefer BAE/ethnographic primary
 texts and, where they exist, Indigenous-authored or community-vetted collections.)
 - [x] North America — Cherokee → cherokee_mooney_en (127 myths; Mooney BAE 1900)
-- [ ] North America — Iroquois
+- [x] North America — Iroquois → iroquois_cornplanter_en (26, Cornplanter elder), seneca_parker_en (90, Parker SENECA AUTHOR) = 116 tales
 - [ ] North America — Lakota / Sioux
-- [ ] North America — Navajo
+- [ ] North America — Navajo (not found on Gutenberg; BAE Annual Reports = future archive.org pass)
 - [ ] North America — Pueblo
 - [ ] North America — Pacific Northwest
 - [~] North America — Inuit/Arctic → north_american_folklore_en (34, mixed tribes c1891); Eskimo Bayliss = future pass
