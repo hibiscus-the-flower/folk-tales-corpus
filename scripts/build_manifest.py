@@ -68,6 +68,11 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # Afanasyev Russian, Mackenzie China/Japan, Multi-cultural anthology
+    ("russian_afanasyev_en",       "A. N. Afanasyev (trans.)",    "en", "Gutenberg #62509 (Russian Folk-Tales, from Afanasyev 1855 collection)"),
+    ("china_japan_mackenzie_en",   "Donald A. Mackenzie",         "en", "Gutenberg #67344 (Myths of China and Japan, 1923)"),
+    ("fairy_tales_all_nations_en", "Anthony R. Montalba (trans.)","en", "Gutenberg #34956 (Fairy Tales from All Nations, 1849)"),
+
         # Estonian, Polynesian, Hawaiian (additional) collections
     ("estonian_kirby_en",   "W. F. Kirby",       "en", "Gutenberg #19438 (Hero of Esthonia & Romantic Literature, 1895)"),
     ("polynesian_maui_en",  "W. D. Westervelt",  "en", "Gutenberg #32601 (Legends of Ma-Ui, Polynesia, 1910)"),

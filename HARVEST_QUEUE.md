@@ -52,12 +52,12 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [ ] Slovak
 - [x] Serbian → serbian_mijatovich_en (26 tales; Mijatovich 1874) — merged with Serbian Fairy Tales (near-dups removed)
 - [x] Croatian → croatian_brlic_en (6 tales; Brlić-Mažuranić 1916 — Croatian author)
-- [ ] Bulgarian
+- [~] Bulgarian → covered in slavic_sixty_en (several Bulgarian tales); dedicated collection = future pass
 - [ ] Bosnian
 - [ ] Slovenian
 - [x] Hungarian → hungarian_magyars_en (106 tales; Jones/Various 1889)
 - [~] Romanian → romanian_kremnitz_en (19), romanian_bird_beast_en (130) = 149 tales; Ispirescu (Romanian-lang) = future pass
-- [ ] Lithuanian
+- [~] Lithuanian/Latvian → no dedicated English PD collection found; Lithuanian tales in slavic_sixty_en; future pass
 - [ ] Latvian
 - [x] Estonian → estonian_kirby_en (116 tales; Kirby 1895)
 - [~] Romani (Roma) → romani_groome_en (135 tales; Groome 1899 — respected Romani scholar); no native-authored PD English collection found
@@ -96,7 +96,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 ## East Asia
 - [~] Chinese → chinese_wilhelm_en (74 tales; Wilhelm 1921); Werner Myths & Legends = catalogue-only; Giles Strange Stories = future pass
 - [x] Korean → korean_folk_tales_en (54), korean_fairy_tales_en (27) = 81 tales
-- [ ] Mongolian
+- [~] Mongolian → no English PD collection found on Gutenberg; Chinese/Mongolian myths covered in china_japan_mackenzie_en; dedicated Mongolian = future archive.org pass
 - [x] Japanese (Ozaki, James) — revisit only for a major untouched PD edition
 
 ## Central Asia
