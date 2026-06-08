@@ -61,6 +61,18 @@ COLLECTIONS = [
     # Portuguese folk-tale collections
     ("portuguese_eells_azores_en", "Elsie Spicer Eells", "en", "Gutenberg #34431 (Islands of Magic: Azores, 1922)"),
 
+    # Swedish folk-tale collections
+    ("swedish_hofberg_en",  "Herman Hofberg (trans. W. H. Myers)", "en", "Gutenberg #73093 (Swedish Fairy Tales, 1893)"),
+    ("swedish_stroebe_en",  "Clara Stroebe (trans. Frederick Herman Martens)", "en", "Gutenberg #37193 (The Swedish Fairy Book, 1921)"),
+
+    # English folk-tale collections
+    ("english_jacobs_en",      "Joseph Jacobs", "en", "Gutenberg #7439 (English Fairy Tales, 1890)"),
+    ("english_jacobs_more_en", "Joseph Jacobs", "en", "Gutenberg #14241 (More English Fairy Tales, 1894)"),
+
+    # Scottish folk-tale collections
+    ("scottish_grierson_en",  "Elizabeth W. Grierson", "en", "Gutenberg #37532 (The Scottish Fairy Book, 1910)"),
+    ("scottish_campbell_en",  "John Gregorson Campbell", "en", "Gutenberg #67609 (Clan Traditions Western Highlands, 1895)"),
+
     # Dutch/Flemish/Belgian folk-tale collections
     ("dutch_griffis_en",   "William Elliot Griffis",          "en", "Gutenberg #7871 (Dutch Fairy Tales, 1918)"),
     ("belgian_griffis_en", "William Elliot Griffis",          "en", "Gutenberg #67256 (Belgian Fairy Tales, 1919)"),

@@ -1,19 +1,1 @@
 kind,similarity,coll_a,file_a,title_a,coll_b,file_b,title_b
-near,0.951,irish_yeats_folk_en,008_the-legend-of-knockgrafton.html,THE LEGEND OF KNOCKGRAFTON.,irish_jacobs_more_en,014_the-legend-of-knockgrafton.html,The Legend of Knockgrafton.
-near,0.947,irish_yeats_folk_en,003_the-priests-supper.html,THE PRIEST'S SUPPER.,irish_croker_en,004_the-priests-supper-iv.html,THE PRIEST’S SUPPER. IV.
-near,0.935,irish_yeats_folk_en,016_flory-cantillons-funeral.html,FLORY CANTILLON'S FUNERAL.,irish_croker_en,022_flory-cantillons-funeral-xxiii.html,FLORY CANTILLON’S FUNERAL. XXIII.
-near,0.932,irish_yeats_folk_en,019_master-and-man.html,MASTER AND MAN.,irish_croker_en,010_master-and-man-x.html,MASTER AND MAN. X.
-near,0.923,irish_yeats_folk_en,045_rent-day.html,RENT-DAY.,irish_croker_en,032_rent-day-xxxv.html,RENT-DAY. XXXV.
-near,0.923,irish_yeats_folk_en,023_daniel-orourke.html,DANIEL O'ROURKE.,irish_croker_en,015_daniel-orourke-xv.html,DANIEL O’ROURKE. XV.
-near,0.921,irish_yeats_folk_en,059_the-giants-stairs.html,THE GIANT'S STAIRS.,irish_croker_en,037_the-giants-stairs-xl.html,THE GIANT’S STAIRS. XL.
-near,0.914,irish_yeats_folk_en,044_the-legend-of-odonoghue.html,THE LEGEND OF O'DONOGHUE.,irish_croker_en,020_the-legend-of-odonoghue-xxi.html,THE LEGEND OF O’DONOGHUE. XXI.
-near,0.894,irish_yeats_folk_en,039_the-horned-women.html,THE HORNED WOMEN.,irish_jacobs_celtic_en,005_the-horned-women.html,The Horned Women
-near,0.885,irish_croker_en,003_the-legend-of-knockgrafton-iii.html,THE LEGEND OF KNOCKGRAFTON. III.,irish_jacobs_more_en,014_the-legend-of-knockgrafton.html,The Legend of Knockgrafton.
-near,0.872,irish_yeats_folk_en,008_the-legend-of-knockgrafton.html,THE LEGEND OF KNOCKGRAFTON.,irish_croker_en,003_the-legend-of-knockgrafton-iii.html,THE LEGEND OF KNOCKGRAFTON. III.
-near,0.840,irish_yeats_folk_en,011_the-brewery-of-egg-shells.html,THE BREWERY OF EGG-SHELLS.,irish_croker_en,005_the-brewery-of-egg-shells-v.html,THE BREWERY OF EGG-SHELLS. V.
-near,0.821,irish_yeats_folk_en,041_the-confessions-of-tom-bourke.html,THE CONFESSIONS OF TOM BOURKE.,irish_croker_en,007_the-confessions-of-tom-bourke-vii.html,THE CONFESSIONS OF TOM BOURKE. VII.
-near,0.800,irish_jacobs_more_en,008_morraha.html,Morraha,irish_larminie_en,002_morraha-brian-more-son-of-the-high-king-of-erin-from-the-well-of-enchantments-of.html,"MORRAHA, BRIAN MORE, SON OF THE HIGH-KING OF ERIN FROM THE WELL OF ENCHANTMENTS OF BINN EDIN."
-near,0.779,irish_yeats_folk_en,027_the-banshee-of-the-mac-carthys.html,THE BANSHEE OF THE MAC CARTHYS.,irish_croker_en,013_legends-of-the-banshee-xiii.html,LEGENDS OF THE BANSHEE. XIII.
-near,0.600,irish_yeats_folk_en,060_a-legend-of-knockmany.html,A LEGEND OF KNOCKMANY.,irish_jacobs_celtic_en,019_a-legend-of-knockmany.html,A Legend of Knockmany
-near,0.598,irish_yeats_folk_en,065_munachar-and-manachar.html,MUNACHAR AND MANACHAR.,irish_jacobs_celtic_en,011_munachar-and-manachar.html,Munachar and Manachar
-same-title,0.478,irish_yeats_folk_en,053_king-otoole-and-his-goose.html,KING O'TOOLE AND HIS GOOSE.,irish_jacobs_celtic_en,013_king-otoole-and-his-goose.html,King O'Toole and His Goose

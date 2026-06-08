@@ -31,10 +31,10 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] Portuguese → portuguese_eells_azores_en (34 tales; Eells Azores 1922); mainland Portuguese collections (Coelho, Athaide Oliveira) in Portuguese-lang = future pass
 - [~] Dutch/Flemish → dutch_griffis_en (21), belgian_griffis_en (26), flemish_coster_en (78) = 125 tales; Wolff Nederlandsche sprookjes (Dutch-lang) = future pass
 - [~] Norwegian → norwegian_dasent_en (74), norwegian_fjeld_en (39) = 113 tales; Grundtvig, Thorpe = future passes
-- [ ] Swedish
+- [~] Swedish → swedish_hofberg_en (83), swedish_stroebe_en (28) = 111 tales; Grundtvig overlap with Norwegian noted
 - [ ] Icelandic
-- [ ] English
-- [ ] Scottish
+- [~] English → english_jacobs_en (43), english_jacobs_more_en (40) = 83 tales; Halliwell Nursery Rhymes, Steel English Tales = future passes
+- [~] Scottish → scottish_grierson_en (27), scottish_campbell_en (38) = 65 tales; J. F. Campbell Popular Tales (4 vols) = future pass
 - [~] Irish → irish_yeats_folk_en (58), irish_jacobs_celtic_en (26), irish_croker_en (37), irish_jacobs_more_en (20), irish_larminie_en (19) = 160 tales; Kennedy Legendary Fictions, Hyde Beside the Fire = future passes
 - [ ] Welsh (Mabinogion)
 - [ ] Cornish / Breton
