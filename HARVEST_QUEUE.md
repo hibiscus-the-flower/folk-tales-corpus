@@ -28,9 +28,9 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] Italian → italian_crane_en (99), italian_basile_en (32), italian_busk_en (93), italian_straparola_v1_en (25) = 249 tales; Pitrè/Comparetti/Imbriani (Italian-lang), Straparola Vol.2, Gonzenbach (German-lang) = future passes
 - [~] Spanish → spanish_munoz_en (19), spanish_eells_en (21), spanish_busk_en (48) = 88 tales; Espinosa (Spanish-lang 280 tales), Fernán Caballero = future passes
 - [x] Basque → basque_webster_en (28 tales; Webster 1877); more Basque folk collections exist in French/Spanish but no other English PD editions found
-- [ ] Portuguese
+- [~] Portuguese → portuguese_eells_azores_en (34 tales; Eells Azores 1922); mainland Portuguese collections (Coelho, Athaide Oliveira) in Portuguese-lang = future pass
 - [ ] Dutch/Flemish
-- [ ] Norwegian
+- [~] Norwegian → norwegian_dasent_en (74), norwegian_fjeld_en (39) = 113 tales; Grundtvig, Thorpe = future passes
 - [ ] Swedish
 - [ ] Icelandic
 - [ ] English

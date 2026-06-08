@@ -54,6 +54,13 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
+    # Norwegian folk-tale collections
+    ("norwegian_dasent_en", "Asbjørnsen & Moe (trans. Dasent)", "en", "Gutenberg #8933 (Popular Tales from the Norse, 1859)"),
+    ("norwegian_fjeld_en",  "Asbjørnsen (trans. Dasent)",       "en", "Gutenberg #36385 (Tales from the Fjeld, 1874)"),
+
+    # Portuguese folk-tale collections
+    ("portuguese_eells_azores_en", "Elsie Spicer Eells", "en", "Gutenberg #34431 (Islands of Magic: Azores, 1922)"),
+
     # Basque folk-tale collections
     ("basque_webster_en", "Wentworth Webster", "en", "Gutenberg #34902 (Basque Legends, 1877)"),
 
