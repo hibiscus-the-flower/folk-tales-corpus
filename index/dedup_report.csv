@@ -1,19 +1,1 @@
 kind,similarity,coll_a,file_a,title_a,coll_b,file_b,title_b
-near,0.964,serbian_mijatovich_en,020_the-trade-that-no-one-knows.html,THE TRADE THAT NO ONE KNOWS.,serbian_fairy_tales_en,011_the-trade-that-no-one-knows.html,THE TRADE THAT NO ONE KNOWS
-near,0.964,serbian_mijatovich_en,015_sir-peppercorn.html,SIR PEPPERCORN.,serbian_fairy_tales_en,008_sir-peppercorn.html,SIR PEPPERCORN
-near,0.963,serbian_mijatovich_en,017_the-shepherd-and-the-kings-daughter.html,THE SHEPHERD AND THE KING’S DAUGHTER.,serbian_fairy_tales_en,016_the-shepherd-and-the-kings-daughter.html,THE SHEPHERD AND THE KING’S DAUGHTER
-near,0.961,serbian_mijatovich_en,019_the-biter-bit.html,THE BITER BIT.,serbian_fairy_tales_en,010_the-biter-bit.html,THE BITER BIT
-near,0.961,serbian_mijatovich_en,016_bash-chalek-or-true-steel.html,"BASH-CHALEK; OR, TRUE STEEL.",serbian_fairy_tales_en,009_bash-chalek-or-true-steel.html,"BASH-CHALEK; OR, TRUE STEEL"
-near,0.953,serbian_mijatovich_en,004_the-golden-apple-tree-and-the-nine-peahens.html,"THE GOLDEN APPLE-TREE, AND THE NINE PEAHENS.",serbian_fairy_tales_en,002_the-golden-apple-tree-and-the-nine-peahens.html,THE GOLDEN APPLE-TREE AND THE NINE PEAHENS
-near,0.952,serbian_mijatovich_en,009_satans-jugglings-and-gods-might.html,SATAN’S JUGGLINGS AND GOD’S MIGHT.,serbian_fairy_tales_en,004_satans-jugglings-and-gods-might.html,SATAN’S JUGGLINGS AND GOD’S MIGHT
-near,0.948,serbian_mijatovich_en,021_the-three-suitors.html,THE THREE SUITORS.,serbian_fairy_tales_en,012_the-three-suitors.html,THE THREE SUITORS
-near,0.946,serbian_mijatovich_en,023_the-dream-of-the-kings-son.html,THE DREAM OF THE KING’S SON.,serbian_fairy_tales_en,014_the-dream-of-the-kings-son.html,THE DREAM OF THE KING’S SON
-near,0.945,serbian_mijatovich_en,011_good-deeds-are-never-lost.html,GOOD DEEDS ARE NEVER LOST.,serbian_fairy_tales_en,005_good-deeds-are-never-lost.html,GOOD DEEDS ARE NEVER LOST
-near,0.944,serbian_mijatovich_en,014_bird-girl.html,BIRD GIRL.,serbian_fairy_tales_en,007_bird-girl.html,BIRD GIRL
-near,0.933,serbian_mijatovich_en,001_the-bears-son.html,THE BEAR’S SON.,serbian_fairy_tales_en,001_the-bears-son.html,THE BEAR’S SON
-near,0.926,serbian_mijatovich_en,005_papalluga-30-or-the-golden-slipper.html,"PAPALLUGA;[30] OR, THE GOLDEN SLIPPER.",serbian_fairy_tales_en,003_papalluga1-or-the-golden-slipper.html,"PAPALLUGA;1 OR, THE GOLDEN SLIPPER"
-near,0.919,serbian_mijatovich_en,013_the-wicked-stepmother.html,THE WICKED STEPMOTHER.,serbian_fairy_tales_en,006_the-wicked-stepmother.html,THE WICKED STEPMOTHER
-near,0.909,serbian_mijatovich_en,022_the-golden-haired-twins.html,THE GOLDEN-HAIRED TWINS.,serbian_fairy_tales_en,013_the-golden-haired-twins.html,THE GOLDEN-HAIRED TWINS
-near,0.797,serbian_mijatovich_en,024_the-three-brothers.html,THE THREE BROTHERS.,serbian_fairy_tales_en,015_the-three-brothers.html,THE THREE BROTHERS
-same-title,0.001,hungarian_magyars_en,031_the-three-brothers.html,THE THREE BROTHERS.,serbian_mijatovich_en,024_the-three-brothers.html,THE THREE BROTHERS.
-same-title,0.001,hungarian_magyars_en,031_the-three-brothers.html,THE THREE BROTHERS.,serbian_fairy_tales_en,015_the-three-brothers.html,THE THREE BROTHERS

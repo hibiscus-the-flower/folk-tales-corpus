@@ -68,6 +68,13 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # African American, Māori, Nigerian, Zulu collections
+    ("uncle_remus_songs_en",  "Joel Chandler Harris [colonial framing flagged]","en", "Gutenberg #2306 (Uncle Remus: Songs & Sayings, 1881)"),
+    ("uncle_remus_nights_en", "Joel Chandler Harris [colonial framing flagged]","en", "Gutenberg #26429 (Nights With Uncle Remus, 1883)"),
+    ("maori_dittmer_en",      "W. Dittmer (from Grey/White sources)",           "en", "Gutenberg #54610 (Te Tohunga: Maori Legends, 1907)"),
+    ("nigerian_dayrell_en",   "Elphinstone Dayrell [colonial, provenance flagged]","en","Gutenberg #34655 (Folk Stories S. Nigeria, 1910)"),
+    ("zulu_samuelson_en",     "L. H. Samuelson (Nomleti)",                      "en", "Gutenberg #46501 (Zulu Customs and Folk-lore, 1912)"),
+
         # Hungarian, Czech, Serbian collections
     ("hungarian_magyars_en",  "Various (trans. Jones)",        "en", "Gutenberg #42981 (Folk-Tales of the Magyars, 1889)"),
     ("czech_fillmore_en",     "Parker Fillmore",               "en", "Gutenberg #32217 (Czechoslovak Fairy Tales, 1919)"),

@@ -117,7 +117,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 
 ## Sub-Saharan Africa
 - [~] Akan/Anansi → west_african_barker_en (38 tales; Barker/Sinclair 1917); Anansi Jamaica Beckwith = future pass
-- [ ] Yoruba
+- [~] Yoruba/Nigerian → nigerian_dayrell_en (47 tales; Dayrell 1910 — colonial admin, provenance flagged); Yoruba-specific collections = future pass
 - [ ] Hausa
 - [ ] Igbo
 - [ ] Fulani
@@ -148,13 +148,13 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 - [ ] Amazonian
 
 ## The Americas — Diaspora & Settler
-- [ ] African American (Brer Rabbit / Uncle Remus) — see colonial/dialect note
+- [~] African American (Brer Rabbit/Uncle Remus) → uncle_remus_songs_en (56), uncle_remus_nights_en (71) = 127 tales; COLONIAL FRAMING NOTE: Harris (white journalist) in African American dialect — tales are authentic African-origin trickster lore, framing is paternalistic; More Uncle Remus volumes = future pass
 - [ ] Caribbean Anansi
 - [~] Latin American mestizo folklore → Brazilian Tales (Goldberg) too literary, OCR needed; Latin American Mythology (Alexander) = future pass
 
 ## Oceania
 - [x] Hawaiian → hawaiian_kalakaua_en (23, INDIGENOUS AUTHOR Kalakaua 1888), hawaiian_folk_tales_en (28, Thrum 1907) = 51 tales
-- [ ] Māori
+- [~] Māori → maori_dittmer_en (20 tales; Dittmer 1907 from Grey sources); Grey Polynesian Mythology (colonial but primary PD source) = future pass
 - [ ] Samoan
 - [ ] Tahitian
 - [ ] Tongan
