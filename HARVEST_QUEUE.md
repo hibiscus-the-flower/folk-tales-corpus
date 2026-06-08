@@ -45,8 +45,8 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] Danish — Andersen present (literary); folk collections (e.g. Grundtvig) untouched
 
 ## Eastern Europe & Slavic
-- [ ] Russian
-- [ ] Ukrainian
+- [~] Russian → russian_ralston_en (51), russian_polevoi_en (24), russian_story_book_en (15) = 90 tales; Afanasyev full collection (Russian-lang, 600+ tales) = major future pass
+- [~] Ukrainian → cossack_bain_en (27 Cossack tales) partly covers; Ukrainian-specific collections = future pass
 - [ ] Polish
 - [ ] Czech
 - [ ] Slovak

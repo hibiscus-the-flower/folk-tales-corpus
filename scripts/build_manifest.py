@@ -54,6 +54,13 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
+    # Russian and Slavic folk-tale collections
+    ("russian_ralston_en",    "W. R. S. Ralston",         "en", "Gutenberg #22373 (Russian Fairy Tales, 1873)"),
+    ("russian_polevoi_en",    "R. Nisbet Bain (trans.)",  "en", "Gutenberg #34705 (Skazki of Polevoi, 1894)"),
+    ("cossack_bain_en",       "R. Nisbet Bain",           "en", "Gutenberg #29672 (Cossack Fairy Tales, 1894)"),
+    ("slavic_sixty_en",       "R. Nisbet Bain (trans.)",  "en", "Gutenberg #48761 (Sixty Slavonic Folk-Tales, 1894)"),
+    ("russian_story_book_en", "Richard Wilson",           "en", "Gutenberg #48605 (The Russian Story Book, 1916)"),
+
     # Norwegian folk-tale collections
     ("norwegian_dasent_en", "Asbjørnsen & Moe (trans. Dasent)", "en", "Gutenberg #8933 (Popular Tales from the Norse, 1859)"),
     ("norwegian_fjeld_en",  "Asbjørnsen (trans. Dasent)",       "en", "Gutenberg #36385 (Tales from the Fjeld, 1874)"),
