@@ -68,6 +68,14 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # North American Indigenous + Latin American collections
+    ("zitkala_sa_legends_en",  "Zitkala-Sa [LAKOTA SIOUX AUTHOR]",        "en", "Gutenberg #338 (Old Indian Legends, 1901) — INDIGENOUS"),
+    ("sioux_mclaughlin_en",    "Marie L. McLaughlin",                      "en", "Gutenberg #341 (Myths and Legends of the Sioux, 1916)"),
+    ("great_plains_judson_en", "Katharine Berry Judson",                   "en", "Gutenberg #22083 (Myths and Legends of the Great Plains, 1913)"),
+    ("apache_goddard_en",      "Pliny Earle Goddard (BAE)",                "en", "Gutenberg #53113 (Myths & Tales: White Mountain Apache, 1919)"),
+    ("northwest_gordon_en",    "H. L. Gordon",                             "en", "Gutenberg #8122 (Legends of the Northwest, 1881)"),
+    ("latin_american_myth_en", "Hartley Burr Alexander",                   "en", "Gutenberg #58359 (Latin American Mythology, 1920)"),
+
         # Vedic/Hindu, Mesopotamian, Egyptian, Celtic myth layers
     ("indian_myth_legend_en",  "Donald A. Mackenzie",  "en", "Gutenberg #47228 (Indian Myth and Legend, 1913)"),
     ("babylonian_spence_en",   "Lewis Spence",          "en", "Gutenberg #45137 (Myths & Legends of Babylonia & Assyria, 1916)"),

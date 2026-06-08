@@ -135,12 +135,12 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 texts and, where they exist, Indigenous-authored or community-vetted collections.)
 - [x] North America — Cherokee → cherokee_mooney_en (127 myths; Mooney BAE 1900)
 - [x] North America — Iroquois → iroquois_cornplanter_en (26, Cornplanter elder), seneca_parker_en (90, Parker SENECA AUTHOR) = 116 tales
-- [ ] North America — Lakota / Sioux
-- [ ] North America — Navajo (not found on Gutenberg; BAE Annual Reports = future archive.org pass)
+- [x] N. America Lakota/Sioux → zitkala_sa_legends_en (14, ZITKALA-SA LAKOTA AUTHOR), sioux_mclaughlin_en (39) = 53 tales
+- [~] N. America Navajo/Apache → apache_goddard_en (13, White Mountain Apache BAE); Navajo BAE reports = future pass (not found on Gutenberg; BAE Annual Reports = future archive.org pass)
 - [ ] North America — Pueblo
-- [ ] North America — Pacific Northwest
+- [~] N. America Pacific Northwest → northwest_gordon_en (6); larger collections = future pass
 - [~] North America — Inuit/Arctic → north_american_folklore_en (34, mixed tribes c1891); Eskimo Bayliss = future pass
-- [ ] Maya
+- [~] Maya/Latin American → latin_american_myth_en (73, incl. Aztec/Maya/Inca/Caribbean; Alexander 1920); great_plains_judson_en (73 multi-tribe Plains tales)
 - [ ] Nahuatl / Aztec
 - [ ] Quechua
 - [ ] Aymara
