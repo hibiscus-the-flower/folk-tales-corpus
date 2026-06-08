@@ -1,11 +1,5 @@
 kind,similarity,coll_a,file_a,title_a,coll_b,file_b,title_b
-near,0.680,indian_jacobs_en,018_pride-goeth-before-a-fall.html,Pride goeth before a Fall,indian_kingscote_en,015_pride-goeth-before-a-fall.html,Pride Goeth Before a Fall.
-near,0.657,indian_campbell_en,012_the-magic-fiddle.html,The Magic Fiddle,indian_jacobs_en,006_the-magic-fiddle.html,The Magic Fiddle
-near,0.552,indian_jacobs_en,010_the-soothsayers-son.html,The Soothsayer's Son,indian_kingscote_en,003_the-soothsayers-son.html,The Soothsayer’s Son.
-same-title,0.003,ceylon_parker_v1_en,030_the-jackal-and-the-hare.html,The Jackal and the Hare,indian_bompas_en,121_the-jackal-and-the-hare.html,The Jackal and the Hare.
-same-title,0.000,indian_bompas_en,130_the-two-brothers.html,The Two Brothers.,indian_steel_en,016_the-two-brothers.html,THE TWO BROTHERS
-same-title,0.000,indian_bompas_en,130_the-two-brothers.html,The Two Brothers.,indian_tibetan_en,018_the-two-brothers.html,THE TWO BROTHERS
-same-title,0.001,indian_steel_en,016_the-two-brothers.html,THE TWO BROTHERS,indian_tibetan_en,018_the-two-brothers.html,THE TWO BROTHERS
-same-title,0.001,indian_hindu_sanskrit_en,008_a-clever-thief.html,A Clever Thief.,indian_tibetan_en,004_the-clever-thief.html,THE CLEVER THIEF
-same-title,0.002,indian_jacobs_en,013_the-talkative-tortoise.html,The Talkative Tortoise,indian_rouse_en,008_the-talkative-tortoise.html,The Talkative Tortoise
-same-title,0.000,indian_rouse_en,002_the-hypocritical-cat.html,The Hypocritical Cat,indian_tibetan_en,040_the-hypocritical-cat.html,THE HYPOCRITICAL CAT
+same-title,0.095,french_perrault_en,003_blue-beard.html,Blue Beard,french_planche_en,001_blue-beard.html,BLUE BEARD.
+same-title,0.083,french_perrault_en,004_the-sleeping-beauty-in-the-wood.html,The Sleeping Beauty in the Wood,french_planche_en,002_the-sleeping-beauty-in-the-wood.html,THE SLEEPING BEAUTY IN THE WOOD.
+same-title,0.101,french_perrault_en,005_the-master-cat-or-puss-in-boots.html,The Master Cat or Puss in Boots,french_planche_en,003_master-cat-or-puss-in-boots.html,"MASTER CAT; OR, PUSS IN BOOTS."
+same-title,0.098,french_perrault_en,007_riquet-with-the-tuft.html,Riquet with the Tuft,french_planche_en,005_riquet-with-the-tuft.html,RIQUET WITH THE TUFT.

@@ -53,6 +53,14 @@ COLLECTIONS = [
     ("burmese_pagoda_en",     "Told on the Pagoda (Mrs. A. M. B. Irwin)", "en", "Gutenberg #36171 (Told on the Pagoda: Tales of Burmah, 1895)"),
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
+
+    # French folk-tale and fairy-tale collections
+    ("french_perrault_en",   "Charles Perrault",    "en", "Gutenberg #29021 (Fairy Tales of Perrault, Harrap 1922)"),
+    ("french_daulnoy_en",    "Madame d'Aulnoy (trans. Macdonell & Lee)", "en", "archive.org fairytalesmadam00dgoog (1892)"),
+    ("french_planche_en",    "J. R. Planché (trans.)", "en", "Gutenberg #52719 (Four and Twenty Fairy Tales, 1858)"),
+    ("french_laboulaye_en",  "Édouard Laboulaye (trans. Booth)", "en", "Gutenberg #26386 (Laboulaye's Fairy Book, 1866)"),
+    ("french_segur_en",      "Comtesse de Ségur",   "en", "Gutenberg #30129 (Old French Fairy Tales, c1920)"),
+    ("french_cosquin_fr",    "Emmanuel Cosquin",    "fr", "Gutenberg #57892 (Contes populaires de Lorraine, 1886)"),
 ]
 
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.DOTALL | re.IGNORECASE)

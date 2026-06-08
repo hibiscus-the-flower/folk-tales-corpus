@@ -24,7 +24,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 ---
 
 ## Western Europe
-- [ ] French
+- [~] French → french_perrault_en (10), french_daulnoy_en (24), french_planche_en (24), french_laboulaye_en (10), french_segur_en (5), french_cosquin_fr (30) = 103 tales; Sébillot (no djvu.txt) + Luzel (OCR heading gaps) + Bladé = high-priority future pass
 - [ ] Italian
 - [ ] Spanish
 - [ ] Basque
