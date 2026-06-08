@@ -54,7 +54,14 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
-    # Chinese, Korean, African collections
+    # Hawaiian, Philippine, Cherokee, North American Indigenous collections
+    ("hawaiian_kalakaua_en",    "King David Kalakaua (indigenous author)",  "en", "Gutenberg #56597 (Legends and Myths of Hawaii, 1888) — INDIGENOUS"),
+    ("hawaiian_folk_tales_en",  "Thomas G. Thrum (ed.)",                   "en", "Gutenberg #18450 (Hawaiian Folk Tales, 1907)"),
+    ("philippine_folk_tales_en","Clara Kern Bayliss et al.",               "en", "Gutenberg #12814 (Philippine Folk-Tales, 1908)"),
+    ("cherokee_mooney_en",      "James Mooney (BAE)",                      "en", "Gutenberg #45634 (Myths of the Cherokee, BAE 1900)"),
+    ("north_american_folklore_en","Anon.",                                 "en", "Gutenberg #22072 (Folk-Lore and Legends: N. American Indian, c1891)"),
+
+        # Chinese, Korean, African collections
     ("chinese_wilhelm_en",    "Richard Wilhelm (trans. Martens)","en", "Gutenberg #29939 (Chinese Fairy Book, 1921)"),
     ("korean_folk_tales_en",  "Im Bang & Yi Ryuk (trans. Gale)", "en", "Gutenberg #51002 (Korean Folk Tales, 1913)"),
     ("korean_fairy_tales_en", "William Elliot Griffis",          "en", "Gutenberg #67180 (Korean Fairy Tales, 1922)"),

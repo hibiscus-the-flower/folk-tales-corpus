@@ -1,1 +1,4 @@
 kind,similarity,coll_a,file_a,title_a,coll_b,file_b,title_b
+same-title,0.006,philippine_folk_tales_en,009_the-sun-and-the-moon.html,The Sun and the Moon,philippine_folk_tales_en,041_the-sun-and-the-moon.html,The Sun and the Moon
+same-title,0.000,philippine_folk_tales_en,009_the-sun-and-the-moon.html,The Sun and the Moon,north_american_folklore_en,015_the-sun-and-the-moon.html,THE SUN AND THE MOON.
+same-title,0.000,philippine_folk_tales_en,041_the-sun-and-the-moon.html,The Sun and the Moon,north_american_folklore_en,015_the-sun-and-the-moon.html,THE SUN AND THE MOON.

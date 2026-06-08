@@ -107,7 +107,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [ ] Tajik
 
 ## Southeast Asia
-- [ ] Filipino
+- [~] Filipino → philippine_folk_tales_en (62 tales; Bayliss et al. 1908); Fansler Filipino Popular Tales = future pass
 - [ ] Indonesian / Malay
 - [ ] Vietnamese
 - [ ] Thai
@@ -133,13 +133,13 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 ## The Americas — Indigenous
 (Heightened colonial-source vigilance — see note. Prefer BAE/ethnographic primary
 texts and, where they exist, Indigenous-authored or community-vetted collections.)
-- [ ] North America — Cherokee
+- [x] North America — Cherokee → cherokee_mooney_en (127 myths; Mooney BAE 1900)
 - [ ] North America — Iroquois
 - [ ] North America — Lakota / Sioux
 - [ ] North America — Navajo
 - [ ] North America — Pueblo
 - [ ] North America — Pacific Northwest
-- [ ] North America — Inuit / Arctic
+- [~] North America — Inuit/Arctic → north_american_folklore_en (34, mixed tribes c1891); Eskimo Bayliss = future pass
 - [ ] Maya
 - [ ] Nahuatl / Aztec
 - [ ] Quechua
@@ -153,7 +153,7 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 - [ ] Latin American mestizo folklore
 
 ## Oceania
-- [ ] Hawaiian
+- [x] Hawaiian → hawaiian_kalakaua_en (23, INDIGENOUS AUTHOR Kalakaua 1888), hawaiian_folk_tales_en (28, Thrum 1907) = 51 tales
 - [ ] Māori
 - [ ] Samoan
 - [ ] Tahitian
