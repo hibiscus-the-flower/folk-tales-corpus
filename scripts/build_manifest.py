@@ -68,6 +68,12 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # Vedic/Hindu, Mesopotamian, Egyptian, Celtic myth layers
+    ("indian_myth_legend_en",  "Donald A. Mackenzie",  "en", "Gutenberg #47228 (Indian Myth and Legend, 1913)"),
+    ("babylonian_spence_en",   "Lewis Spence",          "en", "Gutenberg #45137 (Myths & Legends of Babylonia & Assyria, 1916)"),
+    ("egyptian_spence_en",     "Lewis Spence",          "en", "Gutenberg #43662 (Myths and Legends of Ancient Egypt, 1915)"),
+    ("celtic_squire_en",       "Charles Squire",        "en", "Gutenberg #54616 (Mythology of the British Islands, 1905)"),
+
         # Caribbean Anansi, Croatian, Slavic/Chodsko, Serbian Hero Tales
     ("anansi_jamaica_en",     "Martha Warren Beckwith",              "en", "Gutenberg #72735 (Jamaica Anansi Stories, 1924)"),
     ("croatian_brlic_en",     "Ivana Brlić-Mažuranić [Croatian author]","en","Gutenberg #60095 (Croatian Tales of Long Ago, 1916)"),

@@ -169,10 +169,10 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 - [x] Greek mythology → greek_baldwin_en (15), greek_roman_berens_en (119) = 134 tales
 - [~] Roman mythology → partially covered in greek_roman_berens_en; dedicated Roman collection = future pass
 - [~] Norse mythology → norse_guerber_en (281 entries; Guerber 1909); Prose Edda, Poetic Edda translations = future pass
-- [ ] Mesopotamian (Gilgamesh)
-- [ ] Egyptian (ancient)
-- [ ] Vedic / Hindu
-- [ ] Celtic mythological cycles
+- [x] Mesopotamian → babylonian_spence_en (222 myth entries; Spence 1916)
+- [x] Egyptian ancient → egyptian_spence_en (186 myth entries; Spence 1915)
+- [~] Vedic/Hindu → indian_myth_legend_en (27 narrative sections; Mackenzie 1913); dedicated tale collections (Kathasaritsagara etc.) = future pass
+- [x] Celtic mythological cycles → celtic_squire_en (25 chapters; Squire 1905)
 
 ---
 
