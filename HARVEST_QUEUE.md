@@ -165,10 +165,10 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 - [ ] Papuan
 
 ## Classical & Ancient (myth / literary layer — tag separately)
-- [ ] Aesop
-- [ ] Greek mythology
-- [ ] Roman mythology
-- [ ] Norse mythology (Eddas)
+- [x] Aesop → aesop_fables_en (83 fables; Townsend 1887)
+- [x] Greek mythology → greek_baldwin_en (15), greek_roman_berens_en (119) = 134 tales
+- [~] Roman mythology → partially covered in greek_roman_berens_en; dedicated Roman collection = future pass
+- [~] Norse mythology → norse_guerber_en (281 entries; Guerber 1909); Prose Edda, Poetic Edda translations = future pass
 - [ ] Mesopotamian (Gilgamesh)
 - [ ] Egyptian (ancient)
 - [ ] Vedic / Hindu

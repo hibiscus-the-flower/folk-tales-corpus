@@ -1,4 +1,5 @@
 collection,author,language,culture,source
+aesop_fables_en,Aesop (trans. George Fyler Townsend),en,Classical (Aesop),"Gutenberg #28 — Aesop's Fables (Townsend trans., 1887)"
 arabian_nights_en,Kate Douglas Wiggin & Nora Smith (eds.),en,Arabian,"Gutenberg #20916 — The Arabian Nights: Their Best-Known Tales (Wiggin/Smith eds., 1909)"
 armenian_seklemian_en,A. G. Seklemian,en,Armenian,"Gutenberg #46944 — The Golden Maiden and Other Folk Tales Told in Armenia (Seklemian, 1898)"
 basque_webster_en,Wentworth Webster,en,Basque,"Gutenberg #34902 — Basque Legends (Webster, 1877)"
@@ -22,6 +23,8 @@ french_perrault_en,Charles Perrault,en,French,"Gutenberg #29021 — The Fairy Ta
 french_planche_en,J. R. Planché (trans.),en,French,"Gutenberg #52719 — Four and Twenty Fairy Tales (Planché trans., 1858): Perrault, Murat, La Force, Villeneuve, Caylus, Lubert, de Beaumont"
 french_segur_en,Comtesse de Ségur,en,French,"Gutenberg #30129 — Old French Fairy Tales (Comtesse de Ségur, c1920 trans.)"
 georgian_wardrop_en,Marjory Wardrop (trans.),en,Georgian,"Gutenberg #44536 — Georgian Folk Tales (Wardrop trans., 1894)"
+greek_baldwin_en,James Baldwin,en,Greek mythology,"Gutenberg #11582 — Old Greek Stories (Baldwin, 1895)"
+greek_roman_berens_en,E. M. Berens,en,Greek/Roman mythology,"Gutenberg #22381 — Myths and Legends of Ancient Greece and Rome (Berens, 1894)"
 hawaiian_folk_tales_en,Thomas G. Thrum (ed.),en,Hawaiian,"Gutenberg #18450 — Hawaiian Folk Tales (Thrum ed., 1907)"
 hawaiian_kalakaua_en,"King David Kalakaua (Hawaiian, indigenous author)",en,Hawaiian,"Gutenberg #56597 — The Legends and Myths of Hawaii (Kalakaua, 1888) — INDIGENOUS AUTHOR"
 icelandic_hall_en,Mrs. Angus W. Hall,en,Icelandic,"Gutenberg #67085 — Icelandic Fairy Tales (Hall, 1897)"
@@ -58,6 +61,7 @@ japanese_james_en,Grace James,en,Japanese,"Gutenberg #35853 — Green Willow and
 japanese_ozaki_en,Yei Theodora Ozaki,en,Japanese,"Gutenberg #4018 — Japanese Fairy Tales (Ozaki, 1908)"
 korean_fairy_tales_en,William Elliot Griffis,en,Korean,"Gutenberg #67180 — Korean Fairy Tales (Griffis, 1922)"
 korean_folk_tales_en,Im Bang & Yi Ryuk (trans. James Gale),en,Korean,"Gutenberg #51002 — Korean Folk Tales: Imps, Ghosts and Fairies (Gale trans., 1913)"
+norse_guerber_en,H. A. Guerber,en,Norse mythology,"Gutenberg #28497 — Myths of the Norsemen from the Eddas and Sagas (Guerber, 1909)"
 north_american_folklore_en,Anon. (Various),en,North American Indigenous,Gutenberg #22072 — Folk-Lore and Legends: North American Indian (c1891)
 norwegian_dasent_en,"Asbjørnsen & Moe (trans. G. W. Dasent, 1859)",en,Norwegian,"Gutenberg #8933 — Popular Tales from the Norse (Dasent, 1859)"
 norwegian_fjeld_en,"Asbjørnsen (trans. G. W. Dasent, 1874)",en,Norwegian,"Gutenberg #36385 — Tales from the Fjeld (Dasent, 1874)"
@@ -70,6 +74,7 @@ polish_biggs_en,Maude Ashurst Biggs (trans. from Gliński),en,Polish,"Gutenberg 
 portuguese_eells_azores_en,Elsie Spicer Eells,en,Portuguese,"Gutenberg #34431 — The Islands of Magic: Legends, Folk and Fairy Tales from the Azores (Eells, 1922)"
 romanian_bird_beast_en,M. Gaster (trans.),en,Romanian,"Gutenberg #43059 — Rumanian Bird and Beast Stories (Gaster, 1915)"
 romanian_kremnitz_en,Mite Kremnitz (trans.),en,Romanian,"Gutenberg #20552 — Roumanian Fairy Tales (Kremnitz, 1885)"
+russian_blumenthal_en,Verra Xenophontovna Kalamatiano de Blumenthal,en,Russian,"Gutenberg #12851 — Folk Tales from the Russian (Blumenthal, 1903)"
 russian_polevoi_en,R. Nisbet Bain (trans. from Polevoi),en,Russian,"Gutenberg #34705 — Russian Fairy Tales from the Skazki of Polevoi (Bain trans., 1894)"
 russian_ralston_en,W. R. S. Ralston,en,Russian,"Gutenberg #22373 — Russian Fairy Tales (Ralston, 1873)"
 russian_story_book_en,Richard Wilson,en,Russian,"Gutenberg #48605 — The Russian Story Book (Wilson, 1916)"

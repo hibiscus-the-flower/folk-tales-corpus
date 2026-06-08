@@ -68,6 +68,13 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # Classical & Ancient myth/folk layer
+    ("aesop_fables_en",       "Aesop (trans. Townsend)",   "en", "Gutenberg #28 (Aesop's Fables, Townsend 1887)"),
+    ("norse_guerber_en",      "H. A. Guerber",              "en", "Gutenberg #28497 (Myths of the Norsemen, 1909)"),
+    ("greek_baldwin_en",      "James Baldwin",              "en", "Gutenberg #11582 (Old Greek Stories, 1895)"),
+    ("greek_roman_berens_en", "E. M. Berens",               "en", "Gutenberg #22381 (Myths and Legends of Ancient Greece and Rome, 1894)"),
+    ("russian_blumenthal_en", "V. X. K. de Blumenthal",    "en", "Gutenberg #12851 (Folk Tales from the Russian, 1903)"),
+
         # Arabian, Armenian, Georgian collections
     ("arabian_nights_en",       "Wiggin & Smith (eds.)",         "en", "Gutenberg #20916 (Arabian Nights Best-Known Tales, 1909)"),
     ("armenian_seklemian_en",   "A. G. Seklemian",               "en", "Gutenberg #46944 (Golden Maiden & Other Armenian Tales, 1898)"),
