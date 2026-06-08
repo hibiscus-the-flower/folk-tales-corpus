@@ -54,6 +54,9 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
+    # Basque folk-tale collections
+    ("basque_webster_en", "Wentworth Webster", "en", "Gutenberg #34902 (Basque Legends, 1877)"),
+
     # Spanish folk-tale collections
     ("spanish_munoz_en",  "José Muñoz Escámez",          "en", "Gutenberg #43212 (Fairy Tales from Spain, 1913)"),
     ("spanish_eells_en",  "Charles Sellers (trans.)",     "en", "Gutenberg #31481 (Tales from Nuts and Grapes, 1888)"),

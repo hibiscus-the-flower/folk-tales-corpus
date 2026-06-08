@@ -27,7 +27,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] French → french_perrault_en (10), french_daulnoy_en (24), french_planche_en (24), french_laboulaye_en (10), french_segur_en (5), french_cosquin_fr (30) = 103 tales; Sébillot (no djvu.txt) + Luzel (OCR heading gaps) + Bladé = high-priority future pass
 - [~] Italian → italian_crane_en (99), italian_basile_en (32), italian_busk_en (93), italian_straparola_v1_en (25) = 249 tales; Pitrè/Comparetti/Imbriani (Italian-lang), Straparola Vol.2, Gonzenbach (German-lang) = future passes
 - [~] Spanish → spanish_munoz_en (19), spanish_eells_en (21), spanish_busk_en (48) = 88 tales; Espinosa (Spanish-lang 280 tales), Fernán Caballero = future passes
-- [ ] Basque
+- [x] Basque → basque_webster_en (28 tales; Webster 1877); more Basque folk collections exist in French/Spanish but no other English PD editions found
 - [ ] Portuguese
 - [ ] Dutch/Flemish
 - [ ] Norwegian
