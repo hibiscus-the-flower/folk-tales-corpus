@@ -94,8 +94,8 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [x] Sinhalese (Parker v1–v3) · [x] Tibetan · [x] broad Indian cluster
 
 ## East Asia
-- [ ] Chinese
-- [ ] Korean
+- [~] Chinese → chinese_wilhelm_en (74 tales; Wilhelm 1921); Werner Myths & Legends = catalogue-only; Giles Strange Stories = future pass
+- [x] Korean → korean_folk_tales_en (54), korean_fairy_tales_en (27) = 81 tales
 - [ ] Mongolian
 - [x] Japanese (Ozaki, James) — revisit only for a major untouched PD edition
 
@@ -116,14 +116,14 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [x] Burmese & Shan (Pagoda, Griggs) — revisit only for a major untouched PD edition
 
 ## Sub-Saharan Africa
-- [ ] Akan / Anansi (West African)
+- [~] Akan/Anansi → west_african_barker_en (38 tales; Barker/Sinclair 1917); Anansi Jamaica Beckwith = future pass
 - [ ] Yoruba
 - [ ] Hausa
 - [ ] Igbo
 - [ ] Fulani
 - [ ] Wolof
 - [ ] Bambara
-- [ ] Zulu
+- [~] Zulu/Bushmen → south_african_honey_en (45 tales Honey 1910; South African Bushmen/San/Xhosa); Callaway Zulu = future pass
 - [ ] Xhosa
 - [ ] Swahili (East African)
 - [ ] Kongo

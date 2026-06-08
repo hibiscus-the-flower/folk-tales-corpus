@@ -54,7 +54,14 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
-    # Arabian, Armenian, Georgian collections
+    # Chinese, Korean, African collections
+    ("chinese_wilhelm_en",    "Richard Wilhelm (trans. Martens)","en", "Gutenberg #29939 (Chinese Fairy Book, 1921)"),
+    ("korean_folk_tales_en",  "Im Bang & Yi Ryuk (trans. Gale)", "en", "Gutenberg #51002 (Korean Folk Tales, 1913)"),
+    ("korean_fairy_tales_en", "William Elliot Griffis",          "en", "Gutenberg #67180 (Korean Fairy Tales, 1922)"),
+    ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
+    ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
+
+        # Arabian, Armenian, Georgian collections
     ("arabian_nights_en",       "Wiggin & Smith (eds.)",         "en", "Gutenberg #20916 (Arabian Nights Best-Known Tales, 1909)"),
     ("armenian_seklemian_en",   "A. G. Seklemian",               "en", "Gutenberg #46944 (Golden Maiden & Other Armenian Tales, 1898)"),
     ("georgian_wardrop_en",     "Marjory Wardrop (trans.)",      "en", "Gutenberg #44536 (Georgian Folk Tales, 1894)"),

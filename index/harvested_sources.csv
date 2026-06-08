@@ -7,6 +7,7 @@ burmese_pagoda_en,Mrs. A. M. B. Irwin (Told on the Pagoda),en,Burmese,Gutenberg 
 ceylon_parker_v1_en,Henry Parker,en,Sinhalese (Ceylon),"Gutenberg #56614 — Village Folk-Tales of Ceylon, Vol. 1 (Parker, 1910-14)"
 ceylon_parker_v2_en,Henry Parker,en,Sinhalese (Ceylon),"Gutenberg #57399 — Village Folk-Tales of Ceylon, Vol. 2 (Parker, 1910-14)"
 ceylon_parker_v3_en,Henry Parker,en,Sinhalese (Ceylon),"Gutenberg #58889 — Village Folk-Tales of Ceylon, Vol. 3 (Parker, 1910-14)"
+chinese_wilhelm_en,Richard Wilhelm (trans. Frederick Martens),en,Chinese,"Gutenberg #29939 — The Chinese Fairy Book (Wilhelm, 1921)"
 cossack_bain_en,R. Nisbet Bain,en,Russian/Ukrainian,"Gutenberg #29672 — Cossack Fairy Tales and Folk Tales (Bain, 1894)"
 dutch_griffis_en,William Elliot Griffis,en,Dutch,"Gutenberg #7871 — Dutch Fairy Tales for Young Folks (Griffis, 1918)"
 english_jacobs_en,auto,en,auto,Gutenberg #7439 — English Fairy Tales (Jacobs 1890)
@@ -52,6 +53,8 @@ italian_crane_en,Thomas Frederick Crane,en,Italian,"Gutenberg #23634 — Italian
 italian_straparola_v1_en,"Giovanni Francesco Straparola (trans. W. G. Waters, 1894)",en,Italian,"Gutenberg #75257 — The Nights of Straparola Vol. 1 (Waters trans., Lawrence & Bullen 1894)"
 japanese_james_en,Grace James,en,Japanese,"Gutenberg #35853 — Green Willow and Other Japanese Fairy Tales (James, 1910)"
 japanese_ozaki_en,Yei Theodora Ozaki,en,Japanese,"Gutenberg #4018 — Japanese Fairy Tales (Ozaki, 1908)"
+korean_fairy_tales_en,William Elliot Griffis,en,Korean,"Gutenberg #67180 — Korean Fairy Tales (Griffis, 1922)"
+korean_folk_tales_en,Im Bang & Yi Ryuk (trans. James Gale),en,Korean,"Gutenberg #51002 — Korean Folk Tales: Imps, Ghosts and Fairies (Gale trans., 1913)"
 norwegian_dasent_en,"Asbjørnsen & Moe (trans. G. W. Dasent, 1859)",en,Norwegian,"Gutenberg #8933 — Popular Tales from the Norse (Dasent, 1859)"
 norwegian_fjeld_en,"Asbjørnsen (trans. G. W. Dasent, 1874)",en,Norwegian,"Gutenberg #36385 — Tales from the Fjeld (Dasent, 1874)"
 persian_bakhtyar_en,trans. William Alexander Clouston,en,Persian,"Gutenberg #60316 — The Bakhtyar Nama: A Persian Romance (Clouston, 1883)"
@@ -69,6 +72,7 @@ scottish_campbell_en,John Gregorson Campbell,en,Scottish,"Gutenberg #67609 — C
 scottish_grierson_en,auto,en,auto,Gutenberg #37532 — The Scottish Fairy Book (Grierson 1910)
 shan_griggs_en,William C. Griggs,en,Shan (Burma),"Gutenberg #32375 — Shan Folk Lore Stories from the Hill and Water Country (Griggs, 1902)"
 slavic_sixty_en,R. Nisbet Bain (trans.),en,Slavic,"Gutenberg #48761 — Sixty Folk-Tales from Exclusively Slavonic Sources (Bain, 1894)"
+south_african_honey_en,James A. Honey,en,South African (Bushmen/San),"Gutenberg #38339 — South-African Folk Tales (Honey, 1910)"
 spanish_busk_en,R. H. Busk,en,Spanish,"Gutenberg #45859 — Patrañas; or, Spanish Stories, Legendary and Traditional (Busk, 1870)"
 spanish_eells_en,Charles Sellers (trans.),en,Spanish,"Gutenberg #31481 — Tales from the Lands of Nuts and Grapes: Spanish and Portuguese Folklore (Sellers, 1888)"
 spanish_munoz_en,"José Muñoz Escámez (trans. anon., 1913)",en,Spanish,"Gutenberg #43212 — Fairy Tales from Spain (Muñoz Escámez, 1913)"
@@ -77,3 +81,4 @@ swedish_stroebe_en,auto,en,auto,Gutenberg #37193 — The Swedish Fairy Book (Str
 tibetan_folktales_en,A. L. Shelton,en,Tibetan,"Gutenberg #75000 — Folk Tales from Tibet (Shelton, 1925)"
 turkish_bain_en,R. Nisbet Bain (trans. from Kúnos),en,Turkish,"Gutenberg #64807 — Turkish Fairy Tales and Folk Tales (Bain trans., 1901)"
 welsh_guest_en,Lady Charlotte Guest (trans.),en,Welsh,"Gutenberg #5160 — The Mabinogion (Guest trans., 1849)"
+west_african_barker_en,W. H. Barker & Cecilia Sinclair,en,West African (Akan/Anansi),"Gutenberg #66923 — West African Folk-Tales (Barker & Sinclair, 1917)"
