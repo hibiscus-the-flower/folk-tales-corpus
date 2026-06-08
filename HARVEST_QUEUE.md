@@ -63,12 +63,12 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [ ] Romani (Roma) — be especially mindful of source framing (see colonial note)
 
 ## Caucasus
-- [ ] Armenian
-- [ ] Georgian
+- [x] Armenian → armenian_seklemian_en (30 tales; Seklemian 1898)
+- [x] Georgian → georgian_wardrop_en (39 tales; Wardrop trans. 1894)
 - [ ] Nart sagas (Circassian, Ossetian, other Caucasian peoples)
 
 ## Middle East & North Africa
-- [ ] Arabian (the Nights tradition)
+- [~] Arabian → arabian_nights_en (10 best-known tales, Wiggin/Smith 1909); Burton full 10 vols, Lane 3 vols = major future pass
 - [~] Turkish → turkish_bain_en (21 tales; Kúnos/Bain 1901); Kúnos Turkish Fairy Tales (full 2 vols) = future pass
 - [ ] Kurdish
 - [ ] Berber / Amazigh — French-language collections likely; watch colonial framing
