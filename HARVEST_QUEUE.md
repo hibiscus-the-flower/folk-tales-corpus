@@ -47,7 +47,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 ## Eastern Europe & Slavic
 - [~] Russian → russian_ralston_en (51), russian_polevoi_en (24), russian_story_book_en (15) = 90 tales; Afanasyev full collection (Russian-lang, 600+ tales) = major future pass
 - [~] Ukrainian → cossack_bain_en (27 Cossack tales) partly covers; Ukrainian-specific collections = future pass
-- [ ] Polish
+- [~] Polish → polish_biggs_en (7 tales; small Gliński selection); Gliński full 4 vols in Polish = future pass
 - [ ] Czech
 - [ ] Slovak
 - [ ] Serbian
@@ -56,7 +56,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [ ] Bosnian
 - [ ] Slovenian
 - [ ] Hungarian
-- [ ] Romanian
+- [~] Romanian → romanian_kremnitz_en (19), romanian_bird_beast_en (130) = 149 tales; Ispirescu (Romanian-lang) = future pass
 - [ ] Lithuanian
 - [ ] Latvian
 - [ ] Estonian
@@ -69,7 +69,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 
 ## Middle East & North Africa
 - [ ] Arabian (the Nights tradition)
-- [ ] Turkish
+- [~] Turkish → turkish_bain_en (21 tales; Kúnos/Bain 1901); Kúnos Turkish Fairy Tales (full 2 vols) = future pass
 - [ ] Kurdish
 - [ ] Berber / Amazigh — French-language collections likely; watch colonial framing
 - [ ] Maghrebi Arabic — ditto

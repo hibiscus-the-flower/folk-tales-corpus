@@ -54,6 +54,12 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
+    # Polish, Romanian, Turkish collections
+    ("polish_biggs_en",         "Maude Ashurst Biggs (trans.)",   "en", "Gutenberg #36668 (Polish Fairy Tales, 1920)"),
+    ("romanian_kremnitz_en",    "Mite Kremnitz (trans.)",         "en", "Gutenberg #20552 (Roumanian Fairy Tales, 1885)"),
+    ("romanian_bird_beast_en",  "M. Gaster (trans.)",             "en", "Gutenberg #43059 (Rumanian Bird and Beast Stories, 1915)"),
+    ("turkish_bain_en",         "R. Nisbet Bain (trans.)",        "en", "Gutenberg #64807 (Turkish Fairy Tales, Bain 1901)"),
+
     # Russian and Slavic folk-tale collections
     ("russian_ralston_en",    "W. R. S. Ralston",         "en", "Gutenberg #22373 (Russian Fairy Tales, 1873)"),
     ("russian_polevoi_en",    "R. Nisbet Bain (trans.)",  "en", "Gutenberg #34705 (Skazki of Polevoi, 1894)"),
