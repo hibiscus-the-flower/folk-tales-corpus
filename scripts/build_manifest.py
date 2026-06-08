@@ -54,6 +54,11 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
+    # Spanish folk-tale collections
+    ("spanish_munoz_en",  "José Muñoz Escámez",          "en", "Gutenberg #43212 (Fairy Tales from Spain, 1913)"),
+    ("spanish_eells_en",  "Charles Sellers (trans.)",     "en", "Gutenberg #31481 (Tales from Nuts and Grapes, 1888)"),
+    ("spanish_busk_en",   "R. H. Busk",                   "en", "Gutenberg #45859 (Patrañas, 1870)"),
+
     # Italian folk-tale and fairy-tale collections
     ("italian_crane_en",       "Thomas Frederick Crane",    "en", "Gutenberg #23634 (Italian Popular Tales, 1885)"),
     ("italian_basile_en",      "Giambattista Basile",       "en", "Gutenberg #2198 (Stories from the Pentamerone, orig. 1634)"),
