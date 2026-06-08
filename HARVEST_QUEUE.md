@@ -59,7 +59,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] Romanian → romanian_kremnitz_en (19), romanian_bird_beast_en (130) = 149 tales; Ispirescu (Romanian-lang) = future pass
 - [ ] Lithuanian
 - [ ] Latvian
-- [ ] Estonian
+- [x] Estonian → estonian_kirby_en (116 tales; Kirby 1895)
 - [~] Romani (Roma) → romani_groome_en (135 tales; Groome 1899 — respected Romani scholar); no native-authored PD English collection found
 
 ## Caucasus
@@ -155,11 +155,11 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 ## Oceania
 - [x] Hawaiian → hawaiian_kalakaua_en (23, INDIGENOUS AUTHOR Kalakaua 1888), hawaiian_folk_tales_en (28, Thrum 1907) = 51 tales
 - [~] Māori → maori_dittmer_en (20 tales; Dittmer 1907 from Grey sources); Grey Polynesian Mythology (colonial but primary PD source) = future pass
-- [ ] Samoan
+- [~] Samoan → partly in polynesian_maui_en + honolulu_legends_en; dedicated Samoan collection = future pass
 - [ ] Tahitian
 - [ ] Tongan
 - [ ] Fijian
-- [ ] broader Polynesian
+- [~] broader Polynesian → polynesian_maui_en (16, Ma-Ui legends), honolulu_legends_en (30); more = future pass
 - [ ] Melanesian
 - [ ] Aboriginal Australian — heightened vigilance; respect any sacred/restricted material
 - [ ] Papuan
