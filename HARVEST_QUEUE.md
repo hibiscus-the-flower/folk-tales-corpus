@@ -48,14 +48,14 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] Russian → russian_ralston_en (51), russian_polevoi_en (24), russian_story_book_en (15) = 90 tales; Afanasyev full collection (Russian-lang, 600+ tales) = major future pass
 - [~] Ukrainian → cossack_bain_en (27 Cossack tales) partly covers; Ukrainian-specific collections = future pass
 - [~] Polish → polish_biggs_en (7 tales; small Gliński selection); Gliński full 4 vols in Polish = future pass
-- [ ] Czech
+- [x] Czech → czech_fillmore_en (15), czech_folk_tales_en (23) = 38 tales
 - [ ] Slovak
-- [ ] Serbian
+- [x] Serbian → serbian_mijatovich_en (26 tales; Mijatovich 1874) — merged with Serbian Fairy Tales (near-dups removed)
 - [ ] Croatian
 - [ ] Bulgarian
 - [ ] Bosnian
 - [ ] Slovenian
-- [ ] Hungarian
+- [x] Hungarian → hungarian_magyars_en (106 tales; Jones/Various 1889)
 - [~] Romanian → romanian_kremnitz_en (19), romanian_bird_beast_en (130) = 149 tales; Ispirescu (Romanian-lang) = future pass
 - [ ] Lithuanian
 - [ ] Latvian
@@ -150,7 +150,7 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 ## The Americas — Diaspora & Settler
 - [ ] African American (Brer Rabbit / Uncle Remus) — see colonial/dialect note
 - [ ] Caribbean Anansi
-- [ ] Latin American mestizo folklore
+- [~] Latin American mestizo folklore → Brazilian Tales (Goldberg) too literary, OCR needed; Latin American Mythology (Alexander) = future pass
 
 ## Oceania
 - [x] Hawaiian → hawaiian_kalakaua_en (23, INDIGENOUS AUTHOR Kalakaua 1888), hawaiian_folk_tales_en (28, Thrum 1907) = 51 tales

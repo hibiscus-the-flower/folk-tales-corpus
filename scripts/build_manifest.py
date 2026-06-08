@@ -68,6 +68,12 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # Hungarian, Czech, Serbian collections
+    ("hungarian_magyars_en",  "Various (trans. Jones)",        "en", "Gutenberg #42981 (Folk-Tales of the Magyars, 1889)"),
+    ("czech_fillmore_en",     "Parker Fillmore",               "en", "Gutenberg #32217 (Czechoslovak Fairy Tales, 1919)"),
+    ("czech_folk_tales_en",   "Bozena Nemcova et al.",         "en", "Gutenberg #52596 (Czech Folk Tales, various)"),
+    ("serbian_mijatovich_en", "Madame Elodie Mijatovich",      "en", "Gutenberg #45321 (Serbian Folk-lore, 1874)"),
+
         # Classical & Ancient myth/folk layer
     ("aesop_fables_en",       "Aesop (trans. Townsend)",   "en", "Gutenberg #28 (Aesop's Fables, Townsend 1887)"),
     ("norse_guerber_en",      "H. A. Guerber",              "en", "Gutenberg #28497 (Myths of the Norsemen, 1909)"),
