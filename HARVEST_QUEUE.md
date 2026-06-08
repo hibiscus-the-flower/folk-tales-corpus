@@ -51,7 +51,7 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [x] Czech → czech_fillmore_en (15), czech_folk_tales_en (23) = 38 tales
 - [ ] Slovak
 - [x] Serbian → serbian_mijatovich_en (26 tales; Mijatovich 1874) — merged with Serbian Fairy Tales (near-dups removed)
-- [ ] Croatian
+- [x] Croatian → croatian_brlic_en (6 tales; Brlić-Mažuranić 1916 — Croatian author)
 - [ ] Bulgarian
 - [ ] Bosnian
 - [ ] Slovenian
@@ -149,7 +149,7 @@ texts and, where they exist, Indigenous-authored or community-vetted collections
 
 ## The Americas — Diaspora & Settler
 - [~] African American (Brer Rabbit/Uncle Remus) → uncle_remus_songs_en (56), uncle_remus_nights_en (71) = 127 tales; COLONIAL FRAMING NOTE: Harris (white journalist) in African American dialect — tales are authentic African-origin trickster lore, framing is paternalistic; More Uncle Remus volumes = future pass
-- [ ] Caribbean Anansi
+- [x] Caribbean Anansi → anansi_jamaica_en (283 stories; Beckwith 1924 Jamaica)
 - [~] Latin American mestizo folklore → Brazilian Tales (Goldberg) too literary, OCR needed; Latin American Mythology (Alexander) = future pass
 
 ## Oceania

@@ -68,6 +68,12 @@ COLLECTIONS = [
     ("west_african_barker_en","W. H. Barker & Cecilia Sinclair", "en", "Gutenberg #66923 (West African Folk-Tales, 1917)"),
     ("south_african_honey_en","James A. Honey",                  "en", "Gutenberg #38339 (South-African Folk Tales, 1910)"),
 
+        # Caribbean Anansi, Croatian, Slavic/Chodsko, Serbian Hero Tales
+    ("anansi_jamaica_en",     "Martha Warren Beckwith",              "en", "Gutenberg #72735 (Jamaica Anansi Stories, 1924)"),
+    ("croatian_brlic_en",     "Ivana Brlić-Mažuranić [Croatian author]","en","Gutenberg #60095 (Croatian Tales of Long Ago, 1916)"),
+    ("slavic_chodsko_en",     "Alexander Chodsko (trans.)",          "en", "Gutenberg #25555 (Slav Peasants and Herdsmen, 1896)"),
+    ("serbian_hero_tales_en", "Woislav Petrovitch",                  "en", "Gutenberg #38571 (Hero Tales of the Serbians, 1914)"),
+
         # Romani, Slavic/Curtin, Indigenous American collections
     ("romani_groome_en",        "Francis Hindes Groome",                   "en", "Gutenberg #71092 (Gypsy Folk-Tales, 1899)"),
     ("curtin_slavic_en",        "Jeremiah Curtin",                         "en", "Gutenberg #50011 (Myths & Folk-tales: Russians/W.Slavs/Magyars, 1890)"),

@@ -1,6 +1,7 @@
 collection,author,language,culture,source
 aesop_fables_en,Aesop (trans. George Fyler Townsend),en,Classical (Aesop),"Gutenberg #28 — Aesop's Fables (Townsend trans., 1887)"
 algonquin_young_en,"Egerton Ryerson Young [Methodist missionary, provenance flagged]",en,Algonquin,"Gutenberg #10891 — Algonquin Indian Tales (Young, 1903)"
+anansi_jamaica_en,Martha Warren Beckwith,en,Caribbean Anansi,"Gutenberg #72735 — Jamaica Anansi Stories (Beckwith, 1924)"
 arabian_nights_en,Kate Douglas Wiggin & Nora Smith (eds.),en,Arabian,"Gutenberg #20916 — The Arabian Nights: Their Best-Known Tales (Wiggin/Smith eds., 1909)"
 armenian_seklemian_en,A. G. Seklemian,en,Armenian,"Gutenberg #46944 — The Golden Maiden and Other Folk Tales Told in Armenia (Seklemian, 1898)"
 basque_webster_en,Wentworth Webster,en,Basque,"Gutenberg #34902 — Basque Legends (Webster, 1877)"
@@ -13,6 +14,7 @@ ceylon_parker_v3_en,Henry Parker,en,Sinhalese (Ceylon),"Gutenberg #58889 — Vil
 cherokee_mooney_en,James Mooney (Bureau of American Ethnology),en,Cherokee (North America),"Gutenberg #45634 — Myths of the Cherokee, 19th Annual Report BAE (Mooney, 1900)"
 chinese_wilhelm_en,Richard Wilhelm (trans. Frederick Martens),en,Chinese,"Gutenberg #29939 — The Chinese Fairy Book (Wilhelm, 1921)"
 cossack_bain_en,R. Nisbet Bain,en,Russian/Ukrainian,"Gutenberg #29672 — Cossack Fairy Tales and Folk Tales (Bain, 1894)"
+croatian_brlic_en,Ivana Brlić-Mažuranić [Croatian author],en,Croatian,"Gutenberg #60095 — Croatian Tales of Long Ago (Brlić, 1916)"
 curtin_slavic_en,Jeremiah Curtin,en,Slavic (Russian/W.Slav/Magyar),"Gutenberg #50011 — Myths & Folk-tales of Russians, W.Slavs & Magyars (Curtin, 1890)"
 czech_fillmore_en,Parker Fillmore,en,Czech,Gutenberg #32217
 czech_folk_tales_en,Bozena Nemcova et al.,en,Czech,Gutenberg #52596
@@ -93,8 +95,10 @@ scottish_campbell_en,John Gregorson Campbell,en,Scottish,"Gutenberg #67609 — C
 scottish_grierson_en,auto,en,auto,Gutenberg #37532 — The Scottish Fairy Book (Grierson 1910)
 seneca_parker_en,Arthur C. Parker [SENECA AUTHOR — INDIGENOUS],en,Seneca/Iroquois,"Gutenberg #61477 — Seneca Myths and Folk Tales (Parker, 1923) — INDIGENOUS AUTHOR"
 serbian_fairy_tales_en,Anon.,en,Serbian,Gutenberg #67191
+serbian_hero_tales_en,Woislav Petrovitch,en,Serbian,"Gutenberg #38571 — Hero Tales and Legends of the Serbians (Petrovitch, 1914)"
 serbian_mijatovich_en,Madame Elodie Mijatovich,en,Serbian,Gutenberg #45321
 shan_griggs_en,William C. Griggs,en,Shan (Burma),"Gutenberg #32375 — Shan Folk Lore Stories from the Hill and Water Country (Griggs, 1902)"
+slavic_chodsko_en,Alexander Chodsko (trans.),en,Slavic (Czech/Slovak/Polish),"Gutenberg #25555 — Fairy Tales of the Slav Peasants and Herdsmen (Chodsko, 1896)"
 slavic_sixty_en,R. Nisbet Bain (trans.),en,Slavic,"Gutenberg #48761 — Sixty Folk-Tales from Exclusively Slavonic Sources (Bain, 1894)"
 south_african_honey_en,James A. Honey,en,South African (Bushmen/San),"Gutenberg #38339 — South-African Folk Tales (Honey, 1910)"
 spanish_busk_en,R. H. Busk,en,Spanish,"Gutenberg #45859 — Patrañas; or, Spanish Stories, Legendary and Traditional (Busk, 1870)"
