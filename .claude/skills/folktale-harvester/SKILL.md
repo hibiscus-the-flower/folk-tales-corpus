@@ -87,6 +87,17 @@ context; keep it that way:
 Work through these phases. Narrate progress as you go; you don't need to stop for
 approval, but do produce the survey so your public-domain decisions are auditable.
 
+### Phase 0 — Connectivity preflight (run first in restricted environments)
+Some environments (notably the remote routine sandbox) allowlist network egress,
+which blocks the `curl` path the harvest scripts use. Probe it up front:
+```bash
+python3 .claude/skills/folktale-harvester/scripts/preflight.py
+```
+If it reports a **critical** source (archive.org or Wikisource) BLOCKED, do not
+push deep into a harvest that will fail on fetch — report the verdict and stop;
+the harvest should be run locally instead. If all critical sources are OK,
+proceed. (On an unrestricted local machine this passes trivially.)
+
 ### Phase 1 — Catalogue (multi-aggregator, 150+ titles — more is better)
 Build the "map" from **several** aggregators, not one — Ashliman is strong on some
 cultures and thin on others (it returned only 19 titles for Japanese). The
