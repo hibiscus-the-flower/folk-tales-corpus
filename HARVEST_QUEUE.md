@@ -29,13 +29,13 @@ cluster (Ashkenazi + several Mizrahi). These are marked `[~]`/`[x]` below.
 - [~] Spanish → spanish_munoz_en (19), spanish_eells_en (21), spanish_busk_en (48) = 88 tales; Espinosa (Spanish-lang 280 tales), Fernán Caballero = future passes
 - [x] Basque → basque_webster_en (28 tales; Webster 1877); more Basque folk collections exist in French/Spanish but no other English PD editions found
 - [~] Portuguese → portuguese_eells_azores_en (34 tales; Eells Azores 1922); mainland Portuguese collections (Coelho, Athaide Oliveira) in Portuguese-lang = future pass
-- [ ] Dutch/Flemish
+- [~] Dutch/Flemish → dutch_griffis_en (21), belgian_griffis_en (26), flemish_coster_en (78) = 125 tales; Wolff Nederlandsche sprookjes (Dutch-lang) = future pass
 - [~] Norwegian → norwegian_dasent_en (74), norwegian_fjeld_en (39) = 113 tales; Grundtvig, Thorpe = future passes
 - [ ] Swedish
 - [ ] Icelandic
 - [ ] English
 - [ ] Scottish
-- [ ] Irish
+- [~] Irish → irish_yeats_folk_en (58), irish_jacobs_celtic_en (26), irish_croker_en (37), irish_jacobs_more_en (20), irish_larminie_en (19) = 160 tales; Kennedy Legendary Fictions, Hyde Beside the Fire = future passes
 - [ ] Welsh (Mabinogion)
 - [ ] Cornish / Breton
 - [ ] Greek (folk, modern — distinct from the myth layer below)

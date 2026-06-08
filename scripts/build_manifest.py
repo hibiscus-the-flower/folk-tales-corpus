@@ -61,6 +61,18 @@ COLLECTIONS = [
     # Portuguese folk-tale collections
     ("portuguese_eells_azores_en", "Elsie Spicer Eells", "en", "Gutenberg #34431 (Islands of Magic: Azores, 1922)"),
 
+    # Dutch/Flemish/Belgian folk-tale collections
+    ("dutch_griffis_en",   "William Elliot Griffis",          "en", "Gutenberg #7871 (Dutch Fairy Tales, 1918)"),
+    ("belgian_griffis_en", "William Elliot Griffis",          "en", "Gutenberg #67256 (Belgian Fairy Tales, 1919)"),
+    ("flemish_coster_en",  "Charles de Coster (trans. Taylor)","en", "Gutenberg #37668 (Flemish Legends, trans. 1920)"),
+
+    # Irish folk-tale collections
+    ("irish_yeats_folk_en",    "W. B. Yeats (ed.)",           "en", "Gutenberg #33887 (Fairy & Folk Tales of Irish Peasantry, 1888)"),
+    ("irish_jacobs_celtic_en", "Joseph Jacobs",               "en", "Gutenberg #35862 (Celtic Folk and Fairy Tales, 1892)"),
+    ("irish_croker_en",        "T. Crofton Croker",           "en", "Gutenberg #39752 (Fairy Legends of South of Ireland, 1825)"),
+    ("irish_jacobs_more_en",   "Joseph Jacobs",               "en", "Gutenberg #34453 (More Celtic Fairy Tales, 1894)"),
+    ("irish_larminie_en",      "William Larminie",            "en", "Gutenberg #57858 (West Irish Folk-Tales, 1893)"),
+
     # Basque folk-tale collections
     ("basque_webster_en", "Wentworth Webster", "en", "Gutenberg #34902 (Basque Legends, 1877)"),
 
