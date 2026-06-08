@@ -98,6 +98,10 @@ aggregators to consult are listed in `references/sources.md`; at minimum:
    ```
    Pass sensible aliases (`"Irish" Ireland Celtic`, `"Norwegian" Norway`). It
    writes `index/catalogue_<culture>_ashliman.csv` and prints the collectors to chase.
+   **Non-blocking:** if it prints a WARNING that Ashliman is unreachable/blocked
+   (some environments have no egress to `pitt.edu`), do NOT stall or abort — it is
+   only one aggregator. Proceed with the other sources below and let
+   `catalogue_merge.py` build the master from those. Note the gap in the survey.
 2. Gather more titles from other aggregators (web search + the APIs in
    `references/sources.md`): Wikisource book indexes, Wikipedia "list of <culture>
    folktales" pages, and the tables of contents of candidate Gutenberg editions

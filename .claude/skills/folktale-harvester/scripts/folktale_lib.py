@@ -88,17 +88,24 @@ def norm_title(t):
 # Cached HTTP (curl, so it behaves like the rest of the project's fetchers)
 # --------------------------------------------------------------------------- #
 def http_get(url, cache_key=None, pause=0.3):
-    """GET a URL, caching the raw body under .cache/harvester. Polite by default."""
+    """GET a URL, caching the raw body under .cache/harvester. Polite by default.
+
+    Failed or empty responses are NOT cached: a transient block (e.g. a 403 from
+    an aggregator, or no egress to a host) returns "" so the caller can fall back
+    to other sources, and a later run retries instead of replaying a cached miss.
+    """
     if cache_key is None:
         cache_key = re.sub(r"[^A-Za-z0-9]+", "_", url)[:150]
     path = os.path.join(CACHE, cache_key)
     if os.path.exists(path):
         return open(path, encoding="utf-8", errors="replace").read()
-    raw = subprocess.run(["curl", "-sL", "-A", UA, url],
-                         capture_output=True).stdout
-    body = raw.decode("utf-8", "replace")
-    open(path, "w", encoding="utf-8").write(body)
+    proc = subprocess.run(["curl", "-sL", "--fail", "-A", UA, url],
+                          capture_output=True)
+    body = proc.stdout.decode("utf-8", "replace")
     time.sleep(pause)
+    if proc.returncode != 0 or not body.strip():
+        return ""  # don't poison the cache with a block/miss
+    open(path, "w", encoding="utf-8").write(body)
     return body
 
 

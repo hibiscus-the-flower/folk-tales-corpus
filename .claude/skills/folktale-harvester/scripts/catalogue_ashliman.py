@@ -118,7 +118,18 @@ def all_rows():
 def main(culture, aliases):
     terms = [culture] + list(aliases)
     pat = re.compile("|".join(re.escape(t) for t in terms), re.I)
-    rows = all_rows()
+    if not fetch("folktexts.html").strip():
+        sys.stderr.write(
+            "WARNING: Ashliman (pitt.edu/~dash) is unreachable or blocked from this "
+            "environment. This is NOT fatal — Ashliman is one aggregator among "
+            "several. Build the catalogue from the OTHER sources in "
+            "references/sources.md (Wikisource book indexes, Wikipedia 'list of "
+            "<culture> folktales', candidate Gutenberg TOCs) and run "
+            "catalogue_merge.py on those. Writing an empty Ashliman CSV so the "
+            "merge step still runs.\n")
+        rows = []
+    else:
+        rows = all_rows()
     hits = [r for r in rows
             if pat.search(r["culture"]) or pat.search(r["origin_raw"])]
     # One source among several — write a source-specific file. The deduped master
