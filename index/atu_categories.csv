@@ -1,0 +1,51 @@
+range_start,range_end,division,subgroup
+1,299,Animal Tales,
+1,99,Animal Tales,Wild Animals
+100,149,Animal Tales,Wild and Domestic Animals
+150,199,Animal Tales,Wild Animals and Humans
+200,219,Animal Tales,Domestic Animals
+220,299,Animal Tales,Other Animals and Objects
+300,749,Tales of Magic,
+300,399,Tales of Magic,Supernatural Adversaries
+400,459,Tales of Magic,Supernatural or Enchanted Relative
+460,499,Tales of Magic,Supernatural Tasks
+500,559,Tales of Magic,Supernatural Helpers
+560,649,Tales of Magic,Magic Objects
+650,699,Tales of Magic,Supernatural Power or Knowledge
+700,749,Tales of Magic,Other Tales of the Supernatural
+750,849,Religious Tales,
+750,779,Religious Tales,God Rewards and Punishes
+780,799,Religious Tales,The Truth Comes to Light
+800,809,Religious Tales,Heaven
+810,826,Religious Tales,The Devil
+827,849,Religious Tales,Other Religious Tales
+850,999,Realistic Tales (Novelle),
+850,869,Realistic Tales (Novelle),The Man Marries the Princess
+870,879,Realistic Tales (Novelle),The Woman Marries the Prince
+880,899,Realistic Tales (Novelle),Proofs of Fidelity and Innocence
+900,909,Realistic Tales (Novelle),The Obstinate Wife Learns to Obey
+910,919,Realistic Tales (Novelle),Good Precepts
+920,929,Realistic Tales (Novelle),Clever Acts and Words
+930,949,Realistic Tales (Novelle),Tales of Fate
+950,969,Realistic Tales (Novelle),Robbers and Murderers
+970,999,Realistic Tales (Novelle),Other Realistic Tales
+1000,1199,Tales of the Stupid Ogre,
+1000,1029,Tales of the Stupid Ogre,Labor Contract
+1030,1059,Tales of the Stupid Ogre,Partnership between Man and Ogre
+1060,1114,Tales of the Stupid Ogre,Contest between Man and Ogre
+1115,1144,Tales of the Stupid Ogre,Man Kills or Injures Ogre
+1145,1154,Tales of the Stupid Ogre,Ogre Frightened by Man
+1155,1169,Tales of the Stupid Ogre,Man Outwits the Devil
+1170,1199,Tales of the Stupid Ogre,Souls Saved from the Devil
+1200,1999,Anecdotes and Jokes,
+1200,1349,Anecdotes and Jokes,Stories about a Fool
+1350,1439,Anecdotes and Jokes,Stories about Married Couples
+1440,1524,Anecdotes and Jokes,Stories about a Woman
+1525,1724,Anecdotes and Jokes,Stories about a Man
+1725,1849,Anecdotes and Jokes,Jokes about Clergymen and Religious Figures
+1850,1874,Anecdotes and Jokes,Anecdotes about Other Groups
+1875,1999,Anecdotes and Jokes,Tall Tales
+2000,2399,Formula Tales,
+2000,2100,Formula Tales,Cumulative Tales
+2200,2299,Formula Tales,Catch Tales
+2300,2399,Formula Tales,Other Formula Tales

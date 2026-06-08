@@ -1,0 +1,737 @@
+collection,file,title,author,year,source_type,fidelity,word_count
+friedlander_en,001_king-solomon-and-the-worm.html,KING SOLOMON AND THE WORM,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,2889
+friedlander_en,002_falsehood-and-wickedness.html,FALSEHOOD AND WICKEDNESS,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,744
+friedlander_en,003_the-wicked-king-and-his-bride.html,THE WICKED KING AND HIS BRIDE,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,3569
+friedlander_en,004_the-two-jewels.html,THE TWO JEWELS,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,1598
+friedlander_en,005_the-beggar-at-the-wedding.html,THE BEGGAR AT THE WEDDING,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,3253
+friedlander_en,006_the-clever-wife.html,THE CLEVER WIFE,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,1182
+friedlander_en,007_the-coins-of-elijah.html,THE COINS OF ELIJAH,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,1459
+friedlander_en,008_the-fox-and-the-raven.html,THE FOX AND THE RAVEN,Gerald Friedlander,1918,Talmud/Midrash retelling,clean,376
+ginzberg_legends_en,001_the-first-things-created.html,THE FIRST THINGS CREATED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,753
+ginzberg_legends_en,002_the-alphabet.html,THE ALPHABET,Louis Ginzberg,1909,Aggadah / biblical legend,clean,842
+ginzberg_legends_en,003_the-first-day.html,THE FIRST DAY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1443
+ginzberg_legends_en,004_the-second-day.html,THE SECOND DAY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1437
+ginzberg_legends_en,005_the-third-day.html,THE THIRD DAY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1645
+ginzberg_legends_en,006_the-fourth-day.html,THE FOURTH DAY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1007
+ginzberg_legends_en,007_the-fifth-day.html,THE FIFTH DAY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1001
+ginzberg_legends_en,008_the-sixth-day.html,THE SIXTH DAY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,3987
+ginzberg_legends_en,009_all-things-praise-the-lord.html,ALL THINGS PRAISE THE LORD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1171
+ginzberg_legends_en,010_man-and-the-world.html,MAN AND THE WORLD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1071
+ginzberg_legends_en,011_the-angels-and-the-creation-of-man.html,THE ANGELS AND THE CREATION OF MAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,561
+ginzberg_legends_en,012_the-creation-of-adam.html,THE CREATION OF ADAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,381
+ginzberg_legends_en,013_the-soul-of-man.html,THE SOUL OF MAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1094
+ginzberg_legends_en,014_the-ideal-man.html,THE IDEAL MAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,937
+ginzberg_legends_en,015_the-fall-of-satan.html,THE FALL OF SATAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,539
+ginzberg_legends_en,016_woman.html,WOMAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1487
+ginzberg_legends_en,017_adam-and-eve-in-paradise.html,ADAM AND EVE IN PARADISE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,732
+ginzberg_legends_en,018_the-fall-of-man.html,THE FALL OF MAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1184
+ginzberg_legends_en,019_the-punishment.html,THE PUNISHMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2472
+ginzberg_legends_en,020_sabbath-in-heaven.html,SABBATH IN HEAVEN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1013
+ginzberg_legends_en,021_adams-repentance.html,ADAM'S REPENTANCE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,975
+ginzberg_legends_en,022_the-book-of-raziel.html,THE BOOK OF RAZIEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,977
+ginzberg_legends_en,023_the-sickness-of-adam.html,THE SICKNESS OF ADAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,541
+ginzberg_legends_en,024_eves-story-of-the-fall.html,EVE'S STORY OF THE FALL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1246
+ginzberg_legends_en,025_the-death-of-adam.html,THE DEATH OF ADAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,763
+ginzberg_legends_en,026_the-death-of-eve.html,THE DEATH OF EVE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,462
+ginzberg_legends_en,027_the-birth-of-cain.html,THE BIRTH OF CAIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,551
+ginzberg_legends_en,028_fratricide.html,FRATRICIDE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,819
+ginzberg_legends_en,029_the-punishment-of-cain.html,THE PUNISHMENT OF CAIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1109
+ginzberg_legends_en,030_the-inhabitants-of-the-seven-earths.html,THE INHABITANTS OF THE SEVEN EARTHS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,600
+ginzberg_legends_en,031_the-descendants-of-cain.html,THE DESCENDANTS OF CAIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,766
+ginzberg_legends_en,032_the-descendants-of-adam-and-lilith.html,THE DESCENDANTS OF ADAM AND LILITH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,833
+ginzberg_legends_en,033_seth-and-his-descendants.html,SETH AND HIS DESCENDANTS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,404
+ginzberg_legends_en,034_enosh.html,ENOSH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,591
+ginzberg_legends_en,035_the-fall-of-the-angels.html,THE FALL OF THE ANGELS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,983
+ginzberg_legends_en,036_enoch-ruler-and-teacher.html,"ENOCH, RULER AND TEACHER",Louis Ginzberg,1909,Aggadah / biblical legend,clean,826
+ginzberg_legends_en,037_the-ascension-of-enoch.html,THE ASCENSION OF ENOCH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2279
+ginzberg_legends_en,038_the-translation-of-enoch.html,THE TRANSLATION OF ENOCH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,910
+ginzberg_legends_en,039_methuselah.html,METHUSELAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,331
+ginzberg_legends_en,040_the-birth-of-noah.html,THE BIRTH OF NOAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,841
+ginzberg_legends_en,041_the-punishment-of-the-fallen-angels.html,THE PUNISHMENT OF THE FALLEN ANGELS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1159
+ginzberg_legends_en,042_the-generation-of-the-deluge.html,THE GENERATION OF THE DELUGE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,788
+ginzberg_legends_en,043_the-holy-book.html,THE HOLY BOOK,Louis Ginzberg,1909,Aggadah / biblical legend,clean,841
+ginzberg_legends_en,044_the-inmates-of-the-ark.html,THE INMATES OF THE ARK,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1219
+ginzberg_legends_en,045_the-flood.html,THE FLOOD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1095
+ginzberg_legends_en,046_noah-leaves-the-ark.html,NOAH LEAVES THE ARK,Louis Ginzberg,1909,Aggadah / biblical legend,clean,788
+ginzberg_legends_en,047_the-curse-of-drunkenness.html,THE CURSE OF DRUNKENNESS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1049
+ginzberg_legends_en,048_noahs-descendants-spread-abroad.html,NOAH'S DESCENDANTS SPREAD ABROAD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1162
+ginzberg_legends_en,049_the-depravity-of-mankind.html,THE DEPRAVITY OF MANKIND,Louis Ginzberg,1909,Aggadah / biblical legend,clean,636
+ginzberg_legends_en,050_nimrod.html,NIMROD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,588
+ginzberg_legends_en,051_the-tower-of-babel.html,THE TOWER OF BABEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,696
+ginzberg_legends_en,052_the-wicked-generations.html,THE WICKED GENERATIONS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,423
+ginzberg_legends_en,053_the-birth-of-abraham.html,THE BIRTH OF ABRAHAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,778
+ginzberg_legends_en,054_the-babe-proclaims-god.html,THE BABE PROCLAIMS GOD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1153
+ginzberg_legends_en,055_abrahams-first-appearance-in-public.html,ABRAHAM'S FIRST APPEARANCE IN PUBLIC,Louis Ginzberg,1909,Aggadah / biblical legend,clean,581
+ginzberg_legends_en,056_the-preacher-of-the-true-faith.html,THE PREACHER OF THE TRUE FAITH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1057
+ginzberg_legends_en,057_in-the-fiery-furnace.html,IN THE FIERY FURNACE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1568
+ginzberg_legends_en,058_abraham-emigrates-to-haran.html,ABRAHAM EMIGRATES TO HARAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,976
+ginzberg_legends_en,059_the-star-in-the-east.html,THE STAR IN THE EAST,Louis Ginzberg,1909,Aggadah / biblical legend,clean,858
+ginzberg_legends_en,060_the-true-believer.html,THE TRUE BELIEVER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1153
+ginzberg_legends_en,061_the-iconoclast.html,THE ICONOCLAST,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1359
+ginzberg_legends_en,062_abraham-in-canaan.html,ABRAHAM IN CANAAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,973
+ginzberg_legends_en,063_his-sojourn-in-egypt.html,HIS SOJOURN IN EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1314
+ginzberg_legends_en,064_the-first-pharaoh.html,THE FIRST PHARAOH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,746
+ginzberg_legends_en,065_the-war-of-the-kings.html,THE WAR OF THE KINGS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1988
+ginzberg_legends_en,066_the-covenant-of-the-pieces.html,THE COVENANT OF THE PIECES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,911
+ginzberg_legends_en,067_the-birth-of-ishmael.html,THE BIRTH OF ISHMAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,903
+ginzberg_legends_en,068_the-visit-of-the-angels.html,THE VISIT OF THE ANGELS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1436
+ginzberg_legends_en,069_the-cities-of-sin.html,THE CITIES OF SIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1583
+ginzberg_legends_en,070_abraham-pleads-for-the-sinners.html,ABRAHAM PLEADS FOR THE SINNERS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,800
+ginzberg_legends_en,071_the-destruction-of-the-sinful-cities.html,THE DESTRUCTION OF THE SINFUL CITIES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1349
+ginzberg_legends_en,072_among-the-philistines.html,AMONG THE PHILISTINES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1091
+ginzberg_legends_en,073_the-birth-of-isaac.html,THE BIRTH OF ISAAC,Louis Ginzberg,1909,Aggadah / biblical legend,clean,701
+ginzberg_legends_en,074_ishmael-cast-off.html,ISHMAEL CAST OFF,Louis Ginzberg,1909,Aggadah / biblical legend,clean,692
+ginzberg_legends_en,075_the-two-wives-of-ishmael.html,THE TWO WIVES OF ISHMAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1025
+ginzberg_legends_en,076_the-covenant-with-abimelech.html,THE COVENANT WITH ABIMELECH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,795
+ginzberg_legends_en,077_satan-accuses-abraham.html,SATAN ACCUSES ABRAHAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,693
+ginzberg_legends_en,078_the-journey-to-moriah.html,THE JOURNEY TO MORIAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1615
+ginzberg_legends_en,079_the-akedah.html,THE 'AKEDAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2059
+ginzberg_legends_en,080_the-death-and-burial-of-sarah.html,THE DEATH AND BURIAL OF SARAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1600
+ginzberg_legends_en,081_eliezers-mission.html,ELIEZER'S MISSION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,887
+ginzberg_legends_en,082_the-wooing-of-rebekah.html,THE WOOING OF REBEKAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1081
+ginzberg_legends_en,083_the-last-years-of-abraham.html,THE LAST YEARS OF ABRAHAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,491
+ginzberg_legends_en,084_a-herald-of-death.html,A HERALD OF DEATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1156
+ginzberg_legends_en,085_abraham-views-earth-and-heaven.html,ABRAHAM VIEWS EARTH AND HEAVEN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1085
+ginzberg_legends_en,086_the-patron-of-hebron.html,THE PATRON OF HEBRON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,609
+ginzberg_legends_en,087_the-birth-of-esau-and-jacob.html,THE BIRTH OF ESAU AND JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1431
+ginzberg_legends_en,088_the-favorite-of-abraham.html,THE FAVORITE OF ABRAHAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,673
+ginzberg_legends_en,089_the-sale-of-the-birthright.html,THE SALE OF THE BIRTHRIGHT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1118
+ginzberg_legends_en,090_isaac-with-the-philistines.html,ISAAC WITH THE PHILISTINES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1880
+ginzberg_legends_en,091_isaac-blesses-jacob.html,ISAAC BLESSES JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2616
+ginzberg_legends_en,092_esaus-true-character-revealed.html,ESAU'S TRUE CHARACTER REVEALED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1171
+ginzberg_legends_en,093_jacob-leaves-his-fathers-house.html,JACOB LEAVES HIS FATHER'S HOUSE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1632
+ginzberg_legends_en,094_jacob-pursued-by-eliphaz-and-esau.html,JACOB PURSUED BY ELIPHAZ AND ESAU,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1173
+ginzberg_legends_en,095_the-day-of-miracles.html,THE DAY OF MIRACLES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1692
+ginzberg_legends_en,096_jacob-with-laban.html,JACOB WITH LABAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1012
+ginzberg_legends_en,097_the-marriage-of-jacob.html,THE MARRIAGE OF JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1000
+ginzberg_legends_en,098_the-birth-of-jacobs-children.html,THE BIRTH OF JACOB'S CHILDREN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2284
+ginzberg_legends_en,099_jacob-flees-before-laban.html,JACOB FLEES BEFORE LABAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,881
+ginzberg_legends_en,100_the-covenant-with-laban.html,THE COVENANT WITH LABAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1566
+ginzberg_legends_en,101_jacob-and-esau-prepare-to-meet.html,JACOB AND ESAU PREPARE TO MEET,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2134
+ginzberg_legends_en,102_jacob-wrestles-with-the-angel.html,JACOB WRESTLES WITH THE ANGEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1281
+ginzberg_legends_en,103_the-meeting-between-esau-and-jacob.html,THE MEETING BETWEEN ESAU AND JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2239
+ginzberg_legends_en,104_the-outrage-at-shechem.html,THE OUTRAGE AT SHECHEM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1375
+ginzberg_legends_en,105_a-war-frustrated.html,A WAR FRUSTRATED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1152
+ginzberg_legends_en,106_the-war-with-the-ninevites.html,THE WAR WITH THE NINEVITES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1403
+ginzberg_legends_en,107_the-war-with-the-amorites.html,THE WAR WITH THE AMORITES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,937
+ginzberg_legends_en,108_isaac-blesses-levi-and-judah.html,ISAAC BLESSES LEVI AND JUDAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,543
+ginzberg_legends_en,109_joy-and-sorrow-in-the-house-of-jacob.html,JOY AND SORROW IN THE HOUSE OF JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,800
+ginzberg_legends_en,110_esaus-campaign-against-jacob.html,ESAU'S CAMPAIGN AGAINST JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1543
+ginzberg_legends_en,111_the-descendants-of-esau.html,THE DESCENDANTS OF ESAU,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1074
+ginzberg_legends_en,112_the-favorite-son.html,THE FAVORITE SON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,919
+ginzberg_legends_en,113_joseph-hated-by-his-brethren.html,JOSEPH HATED BY HIS BRETHREN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,943
+ginzberg_legends_en,114_joseph-cast-into-the-pit.html,JOSEPH CAST INTO THE PIT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1790
+ginzberg_legends_en,115_the-sale.html,THE SALE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1249
+ginzberg_legends_en,116_josephs-three-masters.html,JOSEPH'S THREE MASTERS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1381
+ginzberg_legends_en,117_josephs-coat-brought-to-his-father.html,JOSEPH'S COAT BROUGHT TO HIS FATHER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2520
+ginzberg_legends_en,118_judah-and-his-sons.html,JUDAH AND HIS SONS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1646
+ginzberg_legends_en,119_the-wives-of-the-sons-of-jacob.html,THE WIVES OF THE SONS OF JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,790
+ginzberg_legends_en,120_joseph-the-slave-of-potiphar.html,JOSEPH THE SLAVE OF POTIPHAR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1407
+ginzberg_legends_en,121_joseph-and-zuleika.html,JOSEPH AND ZULEIKA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2537
+ginzberg_legends_en,122_joseph-resists-temptation.html,JOSEPH RESISTS TEMPTATION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1599
+ginzberg_legends_en,123_joseph-in-prison.html,JOSEPH IN PRISON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1545
+ginzberg_legends_en,124_pharaohs-dreams.html,PHARAOH'S DREAMS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1328
+ginzberg_legends_en,125_joseph-before-pharaoh.html,JOSEPH BEFORE PHARAOH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1699
+ginzberg_legends_en,126_the-ruler-of-egypt.html,THE RULER OF EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1864
+ginzberg_legends_en,127_josephs-brethren-in-egypt.html,JOSEPH'S BRETHREN IN EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,797
+ginzberg_legends_en,128_joseph-meets-his-brethren.html,JOSEPH MEETS HIS BRETHREN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1941
+ginzberg_legends_en,129_the-second-journey-to-egypt.html,THE SECOND JOURNEY TO EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1678
+ginzberg_legends_en,130_joseph-and-benjamin.html,JOSEPH AND BENJAMIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1513
+ginzberg_legends_en,131_the-thief-caught.html,THE THIEF CAUGHT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1156
+ginzberg_legends_en,132_judah-pleads-and-threatens.html,JUDAH PLEADS AND THREATENS.,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2080
+ginzberg_legends_en,133_joseph-makes-himself-known.html,JOSEPH MAKES HIMSELF KNOWN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1493
+ginzberg_legends_en,134_jacob-receives-the-glad-tidings.html,JACOB RECEIVES THE GLAD TIDINGS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1529
+ginzberg_legends_en,135_jacob-arrives-in-egypt.html,JACOB ARRIVES IN EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1193
+ginzberg_legends_en,136_josephs-kindness-and-generosity.html,JOSEPH'S KINDNESS AND GENEROSITY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1092
+ginzberg_legends_en,137_jacobs-last-wish.html,JACOB'S LAST WISH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1233
+ginzberg_legends_en,138_the-blessing-of-ephraim-and-manasseh.html,THE BLESSING OF EPHRAIM AND MANASSEH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2452
+ginzberg_legends_en,139_the-blessing-of-the-twelve-tribes.html,THE BLESSING OF THE TWELVE TRIBES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2270
+ginzberg_legends_en,140_the-death-of-jacob.html,THE DEATH OF JACOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2223
+ginzberg_legends_en,141_the-sons-of-jacob-at-war-with-the-sons-of-esau.html,THE SONS OF JACOB AT WAR WITH THE SONS OF ESAU,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1343
+ginzberg_legends_en,142_zepho-king-of-kittim.html,ZEPHO KING OF KITTIM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1478
+ginzberg_legends_en,143_the-nations-at-war.html,THE NATIONS AT WAR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,787
+ginzberg_legends_en,144_josephs-magnanimity.html,JOSEPH'S MAGNANIMITY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,965
+ginzberg_legends_en,145_asenath.html,ASENATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,847
+ginzberg_legends_en,146_the-marriage-of-joseph.html,THE MARRIAGE OF JOSEPH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,647
+ginzberg_legends_en,147_kind-and-unkind-brethren.html,KIND AND UNKIND BRETHREN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,647
+ginzberg_legends_en,148_treachery-punished.html,TREACHERY PUNISHED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,576
+ginzberg_legends_en,149_the-death-and-burial-of-joseph.html,THE DEATH AND BURIAL OF JOSEPH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1676
+ginzberg_legends_en,150_significant-names.html,SIGNIFICANT NAMES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,744
+ginzberg_legends_en,151_reubens-testament.html,REUBEN'S TESTAMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,563
+ginzberg_legends_en,152_simons-admonition-against-envy.html,SIMON'S ADMONITION AGAINST ENVY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,818
+ginzberg_legends_en,153_the-ascension-of-levi.html,THE ASCENSION OF LEVI,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1163
+ginzberg_legends_en,154_judah-warns-against-greed-and-unchastity.html,JUDAH WARNS AGAINST GREED AND UNCHASTITY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1119
+ginzberg_legends_en,155_issachars-singleness-of-heart.html,ISSACHAR'S SINGLENESS OF HEART,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1031
+ginzberg_legends_en,156_zebulon-exhorts-unto-compassion.html,ZEBULON EXHORTS UNTO COMPASSION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,777
+ginzberg_legends_en,157_dans-confession.html,DAN'S CONFESSION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,522
+ginzberg_legends_en,158_naphtalis-dreams-of-the-division-of-the-tribes.html,NAPHTALI'S DREAMS OF THE DIVISION OF THE TRIBES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2342
+ginzberg_legends_en,159_gads-hatred.html,GAD'S HATRED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,740
+ginzberg_legends_en,160_ashers-last-words.html,ASHER'S LAST WORDS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,486
+ginzberg_legends_en,161_benjamin-extols-joseph.html,BENJAMIN EXTOLS JOSEPH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,860
+ginzberg_legends_en,162_job-and-the-patriarchs.html,JOB AND THE PATRIARCHS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1012
+ginzberg_legends_en,163_jobs-wealth-and-benefactions.html,JOB'S WEALTH AND BENEFACTIONS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,867
+ginzberg_legends_en,164_satan-and-job.html,SATAN AND JOB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,682
+ginzberg_legends_en,165_jobs-suffering.html,JOB'S SUFFERING,Louis Ginzberg,1909,Aggadah / biblical legend,clean,878
+ginzberg_legends_en,166_the-four-friends.html,THE FOUR FRIENDS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1016
+ginzberg_legends_en,167_job-restored.html,JOB RESTORED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,854
+ginzberg_legends_en,168_the-beginning-of-the-egyptian-bondage.html,THE BEGINNING OF THE EGYPTIAN BONDAGE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,371
+ginzberg_legends_en,169_pharaohs-cunning.html,PHARAOH'S CUNNING,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1140
+ginzberg_legends_en,170_the-pious-midwives.html,THE PIOUS MIDWIVES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1079
+ginzberg_legends_en,171_the-three-counsellors.html,THE THREE COUNSELLORS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,718
+ginzberg_legends_en,172_the-slaughter-of-the-innocents.html,THE SLAUGHTER OF THE INNOCENTS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,681
+ginzberg_legends_en,173_the-parents-of-moses.html,THE PARENTS OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,907
+ginzberg_legends_en,174_the-birth-of-moses.html,THE BIRTH OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,928
+ginzberg_legends_en,175_moses-rescued-from-the-water.html,MOSES RESCUED FROM THE WATER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1360
+ginzberg_legends_en,176_the-infancy-of-moses.html,THE INFANCY OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,721
+ginzberg_legends_en,177_moses-rescued-by-gabriel.html,MOSES RESCUED BY GABRIEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1448
+ginzberg_legends_en,178_the-youth-of-moses.html,THE YOUTH OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1735
+ginzberg_legends_en,179_the-flight.html,THE FLIGHT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,918
+ginzberg_legends_en,180_the-king-of-ethiopia.html,THE KING OF ETHIOPIA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1050
+ginzberg_legends_en,181_jethro.html,JETHRO,Louis Ginzberg,1909,Aggadah / biblical legend,clean,593
+ginzberg_legends_en,182_moses-marries-zipporah.html,MOSES MARRIES ZIPPORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1347
+ginzberg_legends_en,183_a-bloody-remedy.html,A BLOODY REMEDY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1367
+ginzberg_legends_en,184_the-faithful-shepherd.html,THE FAITHFUL SHEPHERD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,682
+ginzberg_legends_en,185_the-burning-thorn-bush.html,THE BURNING THORN-BUSH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,535
+ginzberg_legends_en,186_the-ascension-of-moses.html,THE ASCENSION OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1502
+ginzberg_legends_en,187_moses-visits-paradise-and-hell.html,MOSES VISITS PARADISE AND HELL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1796
+ginzberg_legends_en,188_moses-declines-the-mission.html,MOSES DECLINES THE MISSION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1432
+ginzberg_legends_en,189_moses-punished-for-his-stubbornness.html,MOSES PUNISHED FOR HIS STUBBORNNESS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1837
+ginzberg_legends_en,190_the-return-to-egypt.html,THE RETURN TO EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1300
+ginzberg_legends_en,191_moses-and-aaron-before-pharaoh.html,MOSES AND AARON BEFORE PHARAOH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1614
+ginzberg_legends_en,192_the-suffering-increases.html,THE SUFFERING INCREASES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1485
+ginzberg_legends_en,193_measure-for-measure.html,MEASURE FOR MEASURE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1696
+ginzberg_legends_en,194_the-plagues-brought-through-aaron.html,THE PLAGUES BROUGHT THROUGH AARON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1513
+ginzberg_legends_en,195_the-plagues-brought-through-moses.html,THE PLAGUES BROUGHT THROUGH MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2817
+ginzberg_legends_en,196_the-first-passover.html,THE FIRST PASSOVER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,971
+ginzberg_legends_en,197_the-smiting-of-the-first-born.html,THE SMITING OF THE FIRST-BORN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,798
+ginzberg_legends_en,198_the-redemption-of-israel-from-egyptian-bondage.html,THE REDEMPTION OF ISRAEL FROM EGYPTIAN BONDAGE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,834
+ginzberg_legends_en,199_the-exodus.html,THE EXODUS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1543
+ginzberg_legends_en,200_the-long-route.html,THE LONG ROUTE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1380
+ginzberg_legends_en,201_pharaoh-pursues-the-hebrews.html,PHARAOH PURSUES THE HEBREWS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2526
+ginzberg_legends_en,202_the-sea-divided.html,THE SEA DIVIDED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,988
+ginzberg_legends_en,203_the-passage-through-the-red-sea.html,THE PASSAGE THROUGH THE RED SEA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1291
+ginzberg_legends_en,204_the-destruction-of-the-egyptians.html,THE DESTRUCTION OF THE EGYPTIANS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1805
+ginzberg_legends_en,205_the-song-at-the-sea.html,THE SONG AT THE SEA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1509
+ginzberg_legends_en,206_the-awful-desert.html,THE AWFUL DESERT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1576
+ginzberg_legends_en,207_the-heavenly-food.html,THE HEAVENLY FOOD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,992
+ginzberg_legends_en,208_the-gathering-of-the-manna.html,THE GATHERING OF THE MANNA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1700
+ginzberg_legends_en,209_miriams-well.html,MIRIAM'S WELL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1055
+ginzberg_legends_en,210_amaleks-war-against-israel.html,AMALEK'S WAR AGAINST ISRAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1524
+ginzberg_legends_en,211_amalek-defeated.html,AMALEK DEFEATED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1366
+ginzberg_legends_en,212_jethro.html,JETHRO,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1020
+ginzberg_legends_en,213_the-installation-of-elders.html,THE INSTALLATION OF ELDERS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1578
+ginzberg_legends_en,214_jethro-rewarded.html,JETHRO REWARDED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1499
+ginzberg_legends_en,215_the-time-is-at-hand.html,THE TIME IS AT HAND,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1012
+ginzberg_legends_en,216_the-gentiles-refuse-the-torah.html,THE GENTILES REFUSE THE TORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,670
+ginzberg_legends_en,217_the-contest-of-the-mountains.html,THE CONTEST OF THE MOUNTAINS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,738
+ginzberg_legends_en,218_the-torah-offered-to-israel.html,THE TORAH OFFERED TO ISRAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,995
+ginzberg_legends_en,219_israel-prepares-for-the-revelation.html,ISRAEL PREPARES FOR THE REVELATION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,653
+ginzberg_legends_en,220_the-revelation-on-mount-sinai.html,THE REVELATION ON MOUNT SINAI,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1174
+ginzberg_legends_en,221_the-first-commandment.html,THE FIRST COMMANDMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1077
+ginzberg_legends_en,222_the-other-commandments-revealed-on-sinai.html,THE OTHER COMMANDMENTS REVEALED ON SINAI,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1750
+ginzberg_legends_en,223_the-unity-of-the-ten-commandments.html,THE UNITY OF THE TEN COMMANDMENTS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,727
+ginzberg_legends_en,224_moses-chosen-as-intermediator.html,MOSES CHOSEN AS INTERMEDIATOR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,815
+ginzberg_legends_en,225_moses-and-the-angels-strive-for-the-torah.html,MOSES AND THE ANGELS STRIVE FOR THE TORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1679
+ginzberg_legends_en,226_moses-receives-the-torah.html,MOSES RECEIVES THE TORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1459
+ginzberg_legends_en,227_the-golden-calf.html,THE GOLDEN CALF,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1419
+ginzberg_legends_en,228_moses-blamed-for-israels-sin.html,MOSES BLAMED FOR ISRAEL'S SIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1384
+ginzberg_legends_en,229_the-punishment-of-the-sinners.html,THE PUNISHMENT OF THE SINNERS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,712
+ginzberg_legends_en,230_moses-intercedes-for-the-people.html,MOSES INTERCEDES FOR THE PEOPLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1058
+ginzberg_legends_en,231_the-inscrutable-ways-of-the-lord.html,THE INSCRUTABLE WAYS OF THE LORD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,991
+ginzberg_legends_en,232_the-thirteen-attributes-of-god.html,THE THIRTEEN ATTRIBUTES OF GOD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,766
+ginzberg_legends_en,233_the-second-tables.html,THE SECOND TABLES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1400
+ginzberg_legends_en,234_the-census-of-the-people.html,THE CENSUS OF THE PEOPLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1111
+ginzberg_legends_en,235_the-erection-of-the-tabernacle-commanded.html,THE ERECTION OF THE TABERNACLE COMMANDED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1114
+ginzberg_legends_en,236_the-materials-for-the-construction-of-the-tabernacle.html,THE MATERIALS FOR THE CONSTRUCTION OF THE TABERNACLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,792
+ginzberg_legends_en,237_bezalel.html,BEZALEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,680
+ginzberg_legends_en,238_the-ark-with-the-cherubim.html,THE ARK WITH THE CHERUBIM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,901
+ginzberg_legends_en,239_the-table-and-the-candlestick.html,THE TABLE AND THE CANDLESTICK,Louis Ginzberg,1909,Aggadah / biblical legend,clean,611
+ginzberg_legends_en,240_the-altar.html,THE ALTAR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1073
+ginzberg_legends_en,241_the-symbolical-significance-of-the-tabernacle.html,THE SYMBOLICAL SIGNIFICANCE OF THE TABERNACLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,653
+ginzberg_legends_en,242_the-priestly-robes.html,THE PRIESTLY ROBES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,596
+ginzberg_legends_en,243_the-stones-in-the-breastplate.html,THE STONES IN THE BREASTPLATE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,961
+ginzberg_legends_en,244_the-completion-of-the-tabernacle.html,THE COMPLETION OF THE TABERNACLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1012
+ginzberg_legends_en,245_the-setting-up-of-the-tabernacle.html,THE SETTING UP OF THE TABERNACLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,792
+ginzberg_legends_en,246_the-consecration-of-the-priests.html,THE CONSECRATION OF THE PRIESTS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,729
+ginzberg_legends_en,247_the-day-of-the-ten-crowns.html,THE DAY OF THE TEN CROWNS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1766
+ginzberg_legends_en,248_the-interrupted-joy.html,THE INTERRUPTED JOY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1583
+ginzberg_legends_en,249_the-gifts-of-the-princes.html,THE GIFTS OF THE PRINCES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,5152
+ginzberg_legends_en,250_the-revelations-in-the-tabernacle.html,THE REVELATIONS IN THE TABERNACLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,895
+ginzberg_legends_en,251_the-cleansing-of-the-camp.html,THE CLEANSING OF THE CAMP,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1292
+ginzberg_legends_en,252_the-lighting-of-the-candlestick.html,THE LIGHTING OF THE CANDLESTICK,Louis Ginzberg,1909,Aggadah / biblical legend,clean,860
+ginzberg_legends_en,253_the-twelve-princes-of-the-tribes.html,THE TWELVE PRINCES OF THE TRIBES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1329
+ginzberg_legends_en,254_the-census-of-the-levites.html,THE CENSUS OF THE LEVITES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1068
+ginzberg_legends_en,255_the-four-divisions-of-the-levites.html,THE FOUR DIVISIONS OF THE LEVITES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,793
+ginzberg_legends_en,256_the-four-standards.html,THE FOUR STANDARDS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1714
+ginzberg_legends_en,257_the-camp.html,THE CAMP,Louis Ginzberg,1909,Aggadah / biblical legend,clean,746
+ginzberg_legends_en,258_the-blasphemer-and-the-sabbath-breaker.html,THE BLASPHEMER AND THE SABBATH-BREAKER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1148
+ginzberg_legends_en,259_the-ungrateful-multitude.html,THE UNGRATEFUL MULTITUDE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,866
+ginzberg_legends_en,260_the-flesh-pots-of-egypt.html,THE FLESH-POTS OF EGYPT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,743
+ginzberg_legends_en,261_the-appointment-of-the-seventy-elders.html,THE APPOINTMENT OF THE SEVENTY ELDERS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1095
+ginzberg_legends_en,262_eldad-and-medad.html,ELDAD AND MEDAD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,593
+ginzberg_legends_en,263_the-quails.html,THE QUAILS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,595
+ginzberg_legends_en,264_aaron-and-miriam-slander-moses.html,AARON AND MIRIAM SLANDER MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,908
+ginzberg_legends_en,265_miriams-punishment.html,MIRIAM'S PUNISHMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,975
+ginzberg_legends_en,266_the-sending-of-the-spies.html,THE SENDING OF THE SPIES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,816
+ginzberg_legends_en,267_significant-names.html,SIGNIFICANT NAMES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,867
+ginzberg_legends_en,268_the-spies-in-palestine.html,THE SPIES IN PALESTINE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1226
+ginzberg_legends_en,269_the-slanderous-report.html,THE SLANDEROUS REPORT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1037
+ginzberg_legends_en,270_the-night-of-tears.html,THE NIGHT OF TEARS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,978
+ginzberg_legends_en,271_ingratitude-punished.html,INGRATITUDE PUNISHED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1352
+ginzberg_legends_en,272_the-years-of-disfavor.html,THE YEARS OF DISFAVOR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1027
+ginzberg_legends_en,273_the-rebellion-of-korah.html,THE REBELLION OF KORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1187
+ginzberg_legends_en,274_korah-abuses-moses-and-the-torah.html,KORAH ABUSES MOSES AND THE TORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,732
+ginzberg_legends_en,275_moses-pleads-in-vain-with-korah.html,MOSES PLEADS IN VAIN WITH KORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1748
+ginzberg_legends_en,276_korah-and-his-horde-punished.html,KORAH AND HIS HORDE PUNISHED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,660
+ginzberg_legends_en,277_on-and-the-three-sons-of-korah-saved.html,ON AND THE THREE SONS OF KORAH SAVED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,786
+ginzberg_legends_en,278_israel-convinced-of-aarons-priesthood.html,ISRAEL CONVINCED OF AARON'S PRIESTHOOD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1358
+ginzberg_legends_en,279_the-waters-of-meribah.html,THE WATERS OF MERIBAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1259
+ginzberg_legends_en,280_moses-anger-causes-his-doom.html,MOSES' ANGER CAUSES HIS DOOM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1016
+ginzberg_legends_en,281_edoms-unbrotherly-attitude-toward-israel.html,EDOM'S UNBROTHERLY ATTITUDE TOWARD ISRAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,687
+ginzberg_legends_en,282_the-three-shepherds.html,THE THREE SHEPHERDS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1163
+ginzberg_legends_en,283_preparing-aaron-for-impending-death.html,PREPARING AARON FOR IMPENDING DEATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1002
+ginzberg_legends_en,284_aarons-death.html,AARON'S DEATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1178
+ginzberg_legends_en,285_the-general-mourning-for-aaron.html,THE GENERAL MOURNING FOR AARON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,814
+ginzberg_legends_en,286_the-false-friends.html,THE FALSE FRIENDS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1119
+ginzberg_legends_en,287_the-brazen-serpent.html,THE BRAZEN SERPENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,787
+ginzberg_legends_en,288_at-arnon.html,AT ARNON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,884
+ginzberg_legends_en,289_sihon-the-king-of-the-amorites.html,"SIHON, THE KING OF THE AMORITES",Louis Ginzberg,1909,Aggadah / biblical legend,clean,935
+ginzberg_legends_en,290_the-giant-og.html,THE GIANT OG,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1679
+ginzberg_legends_en,291_moses-speech-of-admonition.html,MOSES' SPEECH OF ADMONITION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,801
+ginzberg_legends_en,292_balak-king-of-moab.html,"BALAK, KING OF MOAB",Louis Ginzberg,1909,Aggadah / biblical legend,clean,922
+ginzberg_legends_en,293_balaam-the-heathen-prophet.html,"BALAAM, THE HEATHEN PROPHET",Louis Ginzberg,1909,Aggadah / biblical legend,clean,738
+ginzberg_legends_en,294_balaks-messengers-to-balaam.html,BALAK'S MESSENGERS TO BALAAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,923
+ginzberg_legends_en,295_balaam-accepts-balaks-invitation.html,BALAAM ACCEPTS BALAK'S INVITATION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,907
+ginzberg_legends_en,296_balaams-ass.html,BALAAM'S ASS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1051
+ginzberg_legends_en,297_balaam-runs-into-his-own-destruction.html,BALAAM RUNS INTO HIS OWN DESTRUCTION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,551
+ginzberg_legends_en,298_balaam-with-balak.html,BALAAM WITH BALAK,Louis Ginzberg,1909,Aggadah / biblical legend,clean,603
+ginzberg_legends_en,299_balaams-sacrifices-refused.html,BALAAM'S SACRIFICES REFUSED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,850
+ginzberg_legends_en,300_balaam-extols-israel.html,BALAAM EXTOLS ISRAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,958
+ginzberg_legends_en,301_balaams-hopes-disappointed.html,BALAAM'S HOPES DISAPPOINTED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,950
+ginzberg_legends_en,302_curses-turned-to-blessings.html,CURSES TURNED TO BLESSINGS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,527
+ginzberg_legends_en,303_balaams-wicked-counsel.html,BALAAM'S WICKED COUNSEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,661
+ginzberg_legends_en,304_phinehas-zealous-for-god.html,"PHINEHAS, ZEALOUS FOR GOD",Louis Ginzberg,1909,Aggadah / biblical legend,clean,998
+ginzberg_legends_en,305_twelve-miracles.html,TWELVE MIRACLES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,626
+ginzberg_legends_en,306_phinehas-rewarded.html,PHINEHAS REWARDED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,790
+ginzberg_legends_en,307_the-daughters-of-zelophehad.html,THE DAUGHTERS OF ZELOPHEHAD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1572
+ginzberg_legends_en,308_the-appointment-of-joshua.html,THE APPOINTMENT OF JOSHUA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1459
+ginzberg_legends_en,309_moses-legacy-to-joshua.html,MOSES' LEGACY TO JOSHUA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,810
+ginzberg_legends_en,310_moses-last-campaign.html,MOSES' LAST CAMPAIGN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1314
+ginzberg_legends_en,311_the-complete-annihilation-of-midian.html,THE COMPLETE ANNIHILATION OF MIDIAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,686
+ginzberg_legends_en,312_the-gruesome-end-of-balaam.html,THE GRUESOME END OF BALAAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,510
+ginzberg_legends_en,313_the-victorious-return-from-the-war.html,THE VICTORIOUS RETURN FROM THE WAR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,811
+ginzberg_legends_en,314_wealth-that-bringeth-destruction.html,WEALTH THAT BRINGETH DESTRUCTION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,721
+ginzberg_legends_en,315_moses-death-irrevocably-doomed.html,MOSES' DEATH IRREVOCABLY DOOMED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,713
+ginzberg_legends_en,316_moses-prayer-for-suspension-of-judgment.html,MOSES' PRAYER FOR SUSPENSION OF JUDGMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2759
+ginzberg_legends_en,317_god-tries-to-comfort-moses-concerning-his-death.html,GOD TRIES TO COMFORT MOSES CONCERNING HIS DEATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,943
+ginzberg_legends_en,318_the-intercessions-for-moses.html,THE INTERCESSIONS FOR MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1616
+ginzberg_legends_en,319_moses-serves-joshua.html,MOSES SERVES JOSHUA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,866
+ginzberg_legends_en,320_the-last-day-of-moses-life.html,THE LAST DAY OF MOSES' LIFE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1089
+ginzberg_legends_en,321_moses-beholds-the-future.html,MOSES BEHOLDS THE FUTURE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,946
+ginzberg_legends_en,322_moses-meets-the-messiah-in-heaven.html,MOSES MEETS THE MESSIAH IN HEAVEN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,710
+ginzberg_legends_en,323_the-last-hours-of-moses.html,THE LAST HOURS OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1210
+ginzberg_legends_en,324_the-blessing-of-moses.html,THE BLESSING OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,3280
+ginzberg_legends_en,325_moses-prays-for-death.html,MOSES PRAYS FOR DEATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1170
+ginzberg_legends_en,326_samael-chastised-by-moses.html,SAMAEL CHASTISED BY MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1353
+ginzberg_legends_en,327_god-kisses-moses-soul.html,GOD KISSES MOSES' SOUL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,748
+ginzberg_legends_en,328_the-mourning-for-moses.html,THE MOURNING FOR MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,579
+ginzberg_legends_en,329_samaels-vain-search.html,SAMAEL'S VAIN SEARCH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,954
+ginzberg_legends_en,330_moses-excels-all-pious-men.html,MOSES EXCELS ALL PIOUS MEN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,773
+ginzberg_legends_en,331_the-servant-of-moses.html,THE SERVANT OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,502
+ginzberg_legends_en,332_entering-the-promised-land.html,ENTERING THE PROMISED LAND,Louis Ginzberg,1909,Aggadah / biblical legend,clean,888
+ginzberg_legends_en,333_conquest-of-the-land.html,CONQUEST OF THE LAND,Louis Ginzberg,1909,Aggadah / biblical legend,clean,740
+ginzberg_legends_en,334_the-sun-obeys-joshua.html,THE SUN OBEYS JOSHUA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,918
+ginzberg_legends_en,335_war-with-the-armenians.html,WAR WITH THE ARMENIANS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,735
+ginzberg_legends_en,336_allotment-of-the-land.html,ALLOTMENT OF THE LAND,Louis Ginzberg,1909,Aggadah / biblical legend,clean,644
+ginzberg_legends_en,337_the-first-judge.html,THE FIRST JUDGE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1079
+ginzberg_legends_en,338_campaigns-of-kenaz.html,CAMPAIGNS OF KENAZ,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1262
+ginzberg_legends_en,339_othniel.html,OTHNIEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,432
+ginzberg_legends_en,340_boaz-and-ruth.html,BOAZ AND RUTH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1223
+ginzberg_legends_en,341_deborah.html,DEBORAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1485
+ginzberg_legends_en,342_gideon.html,GIDEON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1077
+ginzberg_legends_en,343_jephthah.html,JEPHTHAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1237
+ginzberg_legends_en,344_samson.html,SAMSON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,662
+ginzberg_legends_en,345_the-crime-of-the-benjamites.html,THE CRIME OF THE BENJAMITES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1409
+ginzberg_legends_en,346_elkanah-and-hannah.html,ELKANAH AND HANNAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,591
+ginzberg_legends_en,347_the-youth-of-samuel.html,THE YOUTH OF SAMUEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,494
+ginzberg_legends_en,348_eli-and-his-sons.html,ELI AND HIS SONS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,842
+ginzberg_legends_en,349_the-activities-of-samuel.html,THE ACTIVITIES OF SAMUEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,433
+ginzberg_legends_en,350_the-reign-of-saul.html,THE REIGN OF SAUL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2320
+ginzberg_legends_en,351_the-court-of-saul.html,THE COURT OF SAUL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1289
+ginzberg_legends_en,352_davids-birth-and-descent.html,DAVID'S BIRTH AND DESCENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,455
+ginzberg_legends_en,353_anointed-king.html,ANOINTED KING,Louis Ginzberg,1909,Aggadah / biblical legend,clean,880
+ginzberg_legends_en,354_encounter-with-goliath.html,ENCOUNTER WITH GOLIATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1086
+ginzberg_legends_en,355_pursued-by-saul.html,PURSUED BY SAUL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,716
+ginzberg_legends_en,356_wars.html,WARS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,808
+ginzberg_legends_en,357_ahithophel.html,AHITHOPHEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,771
+ginzberg_legends_en,358_joab.html,JOAB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1229
+ginzberg_legends_en,359_davids-piety-and-his-sin.html,DAVID'S PIETY AND HIS SIN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1022
+ginzberg_legends_en,360_absaloms-rebellion.html,ABSALOM'S REBELLION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,786
+ginzberg_legends_en,361_davids-atonement.html,DAVID'S ATONEMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,598
+ginzberg_legends_en,362_visitations.html,VISITATIONS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1246
+ginzberg_legends_en,363_the-death-of-david.html,THE DEATH OF DAVID,Louis Ginzberg,1909,Aggadah / biblical legend,clean,322
+ginzberg_legends_en,364_david-in-paradise.html,DAVID IN PARADISE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,560
+ginzberg_legends_en,365_the-family-of-david.html,THE FAMILY OF DAVID,Louis Ginzberg,1909,Aggadah / biblical legend,clean,860
+ginzberg_legends_en,366_his-tomb.html,HIS TOMB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,575
+ginzberg_legends_en,367_solomon-punishes-joab.html,SOLOMON PUNISHES JOAB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,735
+ginzberg_legends_en,368_the-marriage-of-solomon.html,THE MARRIAGE OF SOLOMON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,604
+ginzberg_legends_en,369_his-wisdom.html,HIS WISDOM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,3782
+ginzberg_legends_en,370_the-queen-of-sheba.html,THE QUEEN OF SHEBA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2005
+ginzberg_legends_en,371_solomon-master-of-the-demons.html,SOLOMON MASTER OF THE DEMONS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1495
+ginzberg_legends_en,372_the-building-of-the-temple.html,THE BUILDING OF THE TEMPLE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,842
+ginzberg_legends_en,373_the-throne-of-solomon.html,THE THRONE OF SOLOMON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1162
+ginzberg_legends_en,374_the-hippodrome.html,THE HIPPODROME,Louis Ginzberg,1909,Aggadah / biblical legend,clean,449
+ginzberg_legends_en,375_lessons-in-humility.html,LESSONS IN HUMILITY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,881
+ginzberg_legends_en,376_asmodeus.html,ASMODEUS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1142
+ginzberg_legends_en,377_solomon-as-beggar.html,SOLOMON AS BEGGAR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,968
+ginzberg_legends_en,378_the-court-of-solomon.html,THE COURT OF SOLOMON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1337
+ginzberg_legends_en,379_the-division-of-the-kingdom.html,THE DIVISION OF THE KINGDOM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,367
+ginzberg_legends_en,380_jeroboam.html,JEROBOAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,732
+ginzberg_legends_en,381_the-two-abijahs.html,THE TWO ABIJAHS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,264
+ginzberg_legends_en,382_asa.html,ASA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,375
+ginzberg_legends_en,383_jehoshaphat-and-ahab.html,JEHOSHAPHAT AND AHAB,Louis Ginzberg,1909,Aggadah / biblical legend,clean,978
+ginzberg_legends_en,384_jezebel.html,JEZEBEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,312
+ginzberg_legends_en,385_joram-of-israel.html,JORAM OF ISRAEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,633
+ginzberg_legends_en,386_elijah-before-his-translation.html,ELIJAH BEFORE HIS TRANSLATION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2180
+ginzberg_legends_en,387_after-his-translation.html,AFTER HIS TRANSLATION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2683
+ginzberg_legends_en,388_censor-and-avenger.html,CENSOR AND AVENGER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1685
+ginzberg_legends_en,389_intercourse-with-the-sages.html,INTERCOURSE WITH THE SAGES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1808
+ginzberg_legends_en,390_gods-justice-vindicated.html,GOD'S JUSTICE VINDICATED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1080
+ginzberg_legends_en,391_elijah-and-the-angel-of-death.html,ELIJAH AND THE ANGEL OF DEATH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,730
+ginzberg_legends_en,392_teacher-of-the-kabbalah.html,TEACHER OF THE KABBALAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1115
+ginzberg_legends_en,393_forerunner-of-the-messiah.html,FORERUNNER OF THE MESSIAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,755
+ginzberg_legends_en,394_elisha-the-disciple-of-elijah.html,ELISHA THE DISCIPLE OF ELIJAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,949
+ginzberg_legends_en,395_the-shunammite.html,THE SHUNAMMITE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,554
+ginzberg_legends_en,396_gehazi.html,GEHAZI,Louis Ginzberg,1909,Aggadah / biblical legend,clean,753
+ginzberg_legends_en,397_the-flight-of-jonah.html,THE FLIGHT OF JONAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,691
+ginzberg_legends_en,398_jonah-in-the-whale.html,JONAH IN THE WHALE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,439
+ginzberg_legends_en,399_the-repentance-of-nineveh.html,THE REPENTANCE OF NINEVEH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,874
+ginzberg_legends_en,400_joash.html,JOASH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,877
+ginzberg_legends_en,401_three-great-prophets.html,THREE GREAT PROPHETS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1141
+ginzberg_legends_en,402_the-two-kingdoms-chastised.html,THE TWO KINGDOMS CHASTISED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,646
+ginzberg_legends_en,403_hezekiah.html,HEZEKIAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1178
+ginzberg_legends_en,404_miracles-wrought-for-hezekiah.html,MIRACLES WROUGHT FOR HEZEKIAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2155
+ginzberg_legends_en,405_manasseh.html,MANASSEH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1256
+ginzberg_legends_en,406_josiah-and-his-successors.html,JOSIAH AND HIS SUCCESSORS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1796
+ginzberg_legends_en,407_zedekiah.html,ZEDEKIAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,845
+ginzberg_legends_en,408_jeremiah.html,JEREMIAH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1782
+ginzberg_legends_en,409_nebuchadnezzar.html,NEBUCHADNEZZAR,Louis Ginzberg,1909,Aggadah / biblical legend,clean,416
+ginzberg_legends_en,410_the-capture-of-jerusalem.html,THE CAPTURE OF JERUSALEM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,930
+ginzberg_legends_en,411_the-great-lament.html,THE GREAT LAMENT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1754
+ginzberg_legends_en,412_jeremiahs-journey-to-babylon.html,JEREMIAH'S JOURNEY TO BABYLON,Louis Ginzberg,1909,Aggadah / biblical legend,clean,688
+ginzberg_legends_en,413_transportation-of-the-captives.html,TRANSPORTATION OF THE CAPTIVES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,861
+ginzberg_legends_en,414_the-sons-of-moses.html,THE SONS OF MOSES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,722
+ginzberg_legends_en,415_ebed-melech.html,EBED-MELECH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,584
+ginzberg_legends_en,416_the-temple-vessels.html,THE TEMPLE VESSELS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,399
+ginzberg_legends_en,417_baruch.html,BARUCH,Louis Ginzberg,1909,Aggadah / biblical legend,clean,608
+ginzberg_legends_en,418_the-tombs-of-baruch-and-ezekiel.html,THE TOMBS OF BARUCH AND EZEKIEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,738
+ginzberg_legends_en,419_daniel.html,DANIEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,516
+ginzberg_legends_en,420_the-three-men-in-the-furnace.html,THE THREE MEN IN THE FURNACE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1118
+ginzberg_legends_en,421_ezekiel-revives-the-dead.html,EZEKIEL REVIVES THE DEAD,Louis Ginzberg,1909,Aggadah / biblical legend,clean,518
+ginzberg_legends_en,422_nebuchadnezzar-a-beast.html,NEBUCHADNEZZAR A BEAST,Louis Ginzberg,1909,Aggadah / biblical legend,clean,385
+ginzberg_legends_en,423_hiram.html,HIRAM,Louis Ginzberg,1909,Aggadah / biblical legend,clean,455
+ginzberg_legends_en,424_the-false-prophets.html,THE FALSE PROPHETS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,332
+ginzberg_legends_en,425_daniels-piety.html,DANIEL'S PIETY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,725
+ginzberg_legends_en,426_belshazzars-feast.html,BELSHAZZAR'S FEAST,Louis Ginzberg,1909,Aggadah / biblical legend,clean,608
+ginzberg_legends_en,427_daniel-under-the-persian-kings.html,DANIEL UNDER THE PERSIAN KINGS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1370
+ginzberg_legends_en,428_the-grave-of-daniel.html,THE GRAVE OF DANIEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,286
+ginzberg_legends_en,429_zerubbabel.html,ZERUBBABEL,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1126
+ginzberg_legends_en,430_ezra.html,EZRA,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1275
+ginzberg_legends_en,431_the-men-of-the-great-assembly.html,THE MEN OF THE GREAT ASSEMBLY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,795
+ginzberg_legends_en,432_the-feast-for-the-grandees.html,THE FEAST FOR THE GRANDEES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1025
+ginzberg_legends_en,433_the-festivities-in-shushan.html,THE FESTIVITIES IN SHUSHAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1185
+ginzberg_legends_en,434_vasthis-banquet.html,VASTHI'S BANQUET,Louis Ginzberg,1909,Aggadah / biblical legend,clean,348
+ginzberg_legends_en,435_the-fate-of-vashti.html,THE FATE OF VASHTI,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1540
+ginzberg_legends_en,436_the-follies-of-ahasuerus.html,THE FOLLIES OF AHASUERUS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,512
+ginzberg_legends_en,437_mordecai.html,MORDECAI,Louis Ginzberg,1909,Aggadah / biblical legend,clean,717
+ginzberg_legends_en,438_esthers-beauty-and-piety.html,ESTHER'S BEAUTY AND PIETY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1852
+ginzberg_legends_en,439_the-conspiracy.html,THE CONSPIRACY,Louis Ginzberg,1909,Aggadah / biblical legend,clean,731
+ginzberg_legends_en,440_haman-the-jew-baiter.html,HAMAN THE JEW-BAITER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,526
+ginzberg_legends_en,441_mordecais-pride.html,MORDECAI'S PRIDE,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1296
+ginzberg_legends_en,442_casting-the-lots.html,CASTING THE LOTS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,861
+ginzberg_legends_en,443_the-denunciation-of-the-jews.html,THE DENUNCIATION OF THE JEWS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1868
+ginzberg_legends_en,444_the-decree-of-annihilation.html,THE DECREE OF ANNIHILATION,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1604
+ginzberg_legends_en,445_satan-indicts-the-jews.html,SATAN INDICTS THE JEWS,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1413
+ginzberg_legends_en,446_the-dream-of-mordecai-fulfilled.html,THE DREAM OF MORDECAI FULFILLED,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1367
+ginzberg_legends_en,447_the-prayer-of-esther.html,THE PRAYER OF ESTHER,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1114
+ginzberg_legends_en,448_esther-intercedes.html,ESTHER INTERCEDES,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1302
+ginzberg_legends_en,449_the-disturbed-night.html,THE DISTURBED NIGHT,Louis Ginzberg,1909,Aggadah / biblical legend,clean,1092
+ginzberg_legends_en,450_the-fall-of-haman.html,THE FALL OF HAMAN,Louis Ginzberg,1909,Aggadah / biblical legend,clean,2994
+ginzberg_legends_en,451_the-edict-of-the-king.html,THE EDICT OF THE KING,Louis Ginzberg,1909,Aggadah / biblical legend,clean,780
+hebrew_tales_en,001_moses-and-the-lamb.html,Moses and the Lamb,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,238
+hebrew_tales_en,002_the-value-of-a-good-wife.html,The Value of a Good Wife,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,458
+hebrew_tales_en,003_the-lord-helpeth-man-and-beast.html,The Lord Helpeth Man and Beast,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,464
+hebrew_tales_en,004_conversation-of-a-philosopher-with-a-rabbi.html,Conversation of a Philosopher with a Rabbi,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,291
+hebrew_tales_en,005_the-princess-and-rabbi-joshua.html,The Princess and Rabbi Joshua,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,281
+hebrew_tales_en,006_mercy-in-judgment-a-parable-of-rabbi-jochanan.html,Mercy in Judgment A Parable of Rabbi Jochanan,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,123
+hebrew_tales_en,007_blessings-in-disguise-an-episode-in-the-life-of-r-akiba.html,Blessings in Disguise—An Episode in the Life of R. Akiba,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,605
+hebrew_tales_en,008_intended-divorce-and-reconciliation.html,Intended Divorce and Reconciliation,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,489
+hebrew_tales_en,009_the-heavenly-lamp.html,The Heavenly Lamp,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,80
+hebrew_tales_en,010_true-charity-knows-no-law-illustrated-by-a-tale-of-rabbi-tanchuma.html,True Charity Knows no Law—Illustrated by a Tale of Rabbi Tanchuma,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,362
+hebrew_tales_en,011_scripture-impartiality-vindicated-by-rabbi-jose.html,Scripture Impartiality Vindicated by Rabbi Jose,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,183
+hebrew_tales_en,012_the-honor-due-to-whatever-is-truly-useful.html,The Honor Due to Whatever is Truly Useful,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,64
+hebrew_tales_en,013_to-insult-poverty-or-natural-defect-no-venial-crime.html,"To Insult Poverty or Natural Defect, no Venial Crime",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,443
+hebrew_tales_en,014_liberality-grounded-on-religion-not-to-be-conquered-by-reverse-of-fortune-exempl.html,Liberality Grounded on Religion not to be Conquered by Reverse of Fortune—Exemplified in Abba Judan,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,947
+hebrew_tales_en,015_on-pretended-majorities.html,On Pretended Majorities,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,283
+hebrew_tales_en,016_on-the-mood-of-mind-that-will-render-the-consequences-of-improper-actions-the-at.html,On the Mood of Mind that will Render the Consequences of Improper Actions the Atonement for Them,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,589
+hebrew_tales_en,017_the-seven-ages.html,The Seven Ages,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,379
+hebrew_tales_en,018_incorruptible-treasures.html,Incorruptible Treasures,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,268
+hebrew_tales_en,019_table-talk-of-the-sages-of-israel.html,Table Talk of the Sages of Israel,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,273
+hebrew_tales_en,020_destruction-of-wickedness-the-best-way-of-destroying-wicked-men.html,"Destruction of Wickedness, the Best Way of Destroying Wicked Men",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,144
+hebrew_tales_en,021_the-meek-and-the-haughty-the-contrast-exemplified-in-the-conduct-of-shammai-and-.html,The Meek and the Haughty. The Contrast Exemplified in the Conduct of Shammai and Hillel,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,281
+hebrew_tales_en,022_another-example-or-the-heathen-and-the-hebrew-sages.html,"Another Example; or, the Heathen and the Hebrew Sages",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,369
+hebrew_tales_en,023_the-conquest-of-meekness-or-the-wager.html,"The Conquest of Meekness; or, the Wager",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,462
+hebrew_tales_en,024_true-charity-an-anecdote-of-mar-ukba.html,True Charity—An Anecdote of Mar Ukba,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,213
+hebrew_tales_en,025_filial-reverence-exemplified-in-the-acts-of-damah-the-son-of-nethina.html,"Filial Reverence. Exemplified in the Acts of Damah, the Son of Nethina",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,377
+hebrew_tales_en,026_the-double-moral-and-twofold-tale-from-the-talmud.html,"The Double Moral and Twofold Tale, from the Talmud",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,331
+hebrew_tales_en,027_compassion-toward-the-unhappy-or-rabbi-jose-and-his-repudiated-wife.html,"Compassion Toward the Unhappy: or, Rabbi Jose and His Repudiated Wife",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,683
+hebrew_tales_en,028_the-legacy-of-rabbi-johanan-to-his-disciples.html,The Legacy of Rabbi Johanan to his Disciples,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,449
+hebrew_tales_en,029_miltons-dark-from-excess-of-light-anticipated-and-applied-by-r-joshua-in-answer-.html,"Milton's ""Dark from Excess of Light."" Anticipated and applied by R. Joshua, in answer to a demand of the Emperor Trajan",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,126
+hebrew_tales_en,030_the-wilful-drunkard.html,The Wilful Drunkard,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,722
+hebrew_tales_en,031_do-not-provoke-those-who-throw-off-appearances-of-justice-who-are-too-strong-to-.html,"Do not provoke those who throw off Appearances of Justice, who are too strong to be compelled to the Reality",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,519
+hebrew_tales_en,032_the-traveller-and-the-date-tree-of-the-oasis.html,The Traveller and the Date-tree of the Oasis,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,212
+hebrew_tales_en,033_the-aged-planter-and-hadrian.html,The Aged Planter and Hadrian,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,513
+hebrew_tales_en,034_the-same-things-no-longer-the-same-under-altered-circumstances.html,The Same Things no Longer the Same under Altered Circumstances,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,461
+hebrew_tales_en,035_the-preposterous-snake-a-talmudic-fable.html,The Preposterous Snake. A Talmudic Fable,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,566
+hebrew_tales_en,036_the-doctrine-of-resurrection-supported-by-that-of-creation.html,The Doctrine of Resurrection Supported by that of Creation,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,100
+hebrew_tales_en,037_the-sufferings-of-the-jews-under-hadrian.html,The Sufferings of the Jews Under Hadrian,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,644
+hebrew_tales_en,038_sufferings-of-the-jews-under-hadrian.html,Sufferings of the Jews Under Hadrian,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,193
+hebrew_tales_en,039_on-vows-in-cases-previously-binding-on-the-conscience-a-reply-of-rabbi-yudan.html,On Vows in Cases Previously Binding on the Conscience. A Reply of Rabbi Yudan,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,100
+hebrew_tales_en,040_poverty-no-proof-of-divine-disfavor-a-conversation-between-turnus-rufus-and-rabb.html,Poverty no Proof of Divine Disfavor.—A Conversation between Turnus Rufus and Rabbi Akiba,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,265
+hebrew_tales_en,041_scrupulous-honesty-exemplified-in-the-hospitable-rabbi-phinehas.html,Scrupulous Honesty. Exemplified in the Hospitable Rabbi Phinehas,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,265
+hebrew_tales_en,042_the-fox-and-the-fish-a-fable-of-rabbi-akiba.html,The Fox and the Fish; A Fable of Rabbi Akiba,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,590
+hebrew_tales_en,043_the-climax-of-benevolence-or-the-golden-ladder-of-charity-from-maimonides-after-.html,"The Climax of Benevolence; or, the Golden Ladder of Charity. From Maimonides, after the Talmud",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,420
+hebrew_tales_en,044_rabbi-simeon-and-the-jewels.html,Rabbi Simeon and the Jewels,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,108
+hebrew_tales_en,045_he-who-wrongs-the-dishonest-under-the-pretence-of-their-dishonesty-renders-himse.html,"He Who Wrongs the Dishonest under the Pretence of their Dishonesty, Renders Himself an Accomplice; or, Rabbi Huna Reproved",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,250
+hebrew_tales_en,046_scrupulous-honesty-exemplified-in-the-conduct-of-rabbi-saphra.html,Scrupulous Honesty—Exemplified in the Conduct of Rabbi Saphra,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,171
+hebrew_tales_en,047_reverence-for-truth-and-simplicity-not-to-be-sacrificed-to-the-forms-of-courtesy.html,Reverence for Truth and Simplicity not to be Sacrificed to the Forms of Courtesy—A Lesson of Rabbi Saphra,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,144
+hebrew_tales_en,048_the-twofold-charity-of-the-benevolent-physician-abba-umana.html,"The Twofold Charity of the Benevolent Physician, Abba Umana",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,475
+hebrew_tales_en,049_folly-of-idolatry-a-traditional-tale-respecting-abraham.html,Folly of Idolatry—A Traditional Tale Respecting Abraham,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,469
+hebrew_tales_en,050_abrahams-deliverance-from-the-fiery-furnace.html,Abraham's Deliverance from the Fiery Furnace,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,271
+hebrew_tales_en,051_no-loss-of-dignity-from-any-innocent-means-of-promoting-peace-and-harmony-or-rab.html,"No Loss of Dignity from any Innocent Means of Promoting Peace and Harmony; or, Rabbi Meir and the Unhoused Wife",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,598
+hebrew_tales_en,052_the-lawful-heir.html,The Lawful Heir,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,750
+hebrew_tales_en,053_the-fox-and-the-rift-in-the-garden-wall-a-talmudic-fable.html,The Fox and the Rift in the Garden-wall:—A Talmudic Fable,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,482
+hebrew_tales_en,054_alexander-and-the-female-chief-a-moral-tale-in-honor-of-women.html,Alexander and the Female Chief; a Moral Tale in Honor of Women,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,544
+hebrew_tales_en,055_ambition-humbled-and-reproved-or-alexander-and-the-human-skull.html,Ambition Humbled and Reproved or Alexander and the Human Skull,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,816
+hebrew_tales_en,056_wit-like-salt-a-little-goes-a-great-way.html,Wit Like Salt: A Little Goes a Great Way,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,106
+hebrew_tales_en,057_the-word-us-includes-the-hearer-as-well-as-the-speaker.html,"The Word ""Us"" Includes the Hearer as Well as the Speaker",Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,131
+hebrew_tales_en,058_the-tailor-and-the-broken-mortar.html,The Tailor and the Broken Mortar,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,77
+hebrew_tales_en,059_witty-retort-of-a-hebrew-child.html,Witty Retort of a Hebrew Child,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,88
+hebrew_tales_en,060_the-inhospitable-jester-taken-in-his-own-snare.html,The Inhospitable Jester Taken in His Own Snare,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,204
+hebrew_tales_en,061_the-enigma-that-cost-the-athenian-his-mantle.html,The Enigma that Cost the Athenian His Mantle,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,320
+hebrew_tales_en,062_the-quadruple-tale.html,The Quadruple Tale,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,677
+hebrew_tales_en,063_the-athenian-and-his-one-eyed-slave.html,The Athenian and His One-Eyed Slave,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,513
+hebrew_tales_en,064_the-scientific-carver.html,The Scientific Carver,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,848
+hebrew_tales_en,065_no-rule-without-exception.html,No Rule Without Exception,Hyman Hurwitz,1826,Talmud/Midrash tale/fable,clean,169
+isaacs_en,001_the-faust-of-the-talmud.html,The Faust of the Talmud,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2453
+isaacs_en,002_the-wooing-of-the-princess.html,The Wooing of the Princess,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2373
+isaacs_en,003_the-rip-van-winkle-of-the-talmud.html,The Rip Van Winkle of the Talmud,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1951
+isaacs_en,004_rabbinical-romance.html,Rabbinical Romance,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1974
+isaacs_en,005_the-shepherds-wife.html,The Shepherd's Wife,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1916
+isaacs_en,006_the-repentant-rabbi.html,The Repentant Rabbi,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1767
+isaacs_en,007_the-inheritance.html,The Inheritance,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2068
+isaacs_en,008_elijah-in-the-legends.html,Elijah in the Legends,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1952
+isaacs_en,009_when-solomon-was-king.html,When Solomon was King,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2055
+isaacs_en,010_rabbinical-humor.html,Rabbinical Humor,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2392
+isaacs_en,011_the-munchausen-of-the-talmud.html,The Munchausen of the Talmud,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1645
+isaacs_en,012_the-rabbis-dream.html,The Rabbi's Dream,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1369
+isaacs_en,013_the-gift-that-blessed.html,The Gift that Blessed,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1557
+isaacs_en,014_in-the-sweat-of-thy-brow.html,In the Sweat of Thy Brow,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,1918
+isaacs_en,015_a-four-leaved-clover.html,A Four-Leaved Clover,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2043
+isaacs_en,016_the-expiation.html,The Expiation,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,2320
+isaacs_en,017_a-string-of-pearls.html,A String of Pearls,Abram S. Isaacs,1893,Talmud/Midrash retelling,ocr,3507
+jewish_fairy_book_en,001_the-magic-apples.html,The Magic Apples,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,4660
+jewish_fairy_book_en,002_the-wise-merchant.html,The Wise Merchant,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,1138
+jewish_fairy_book_en,003_heavenly-treasures.html,Heavenly Treasures,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,314
+jewish_fairy_book_en,004_king-solomons-carpet.html,King Solomon's Carpet,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,4221
+jewish_fairy_book_en,005_the-magic-lamp.html,The Magic Lamp,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,3097
+jewish_fairy_book_en,006_chanina-and-the-angels.html,Chanina and the Angels,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,834
+jewish_fairy_book_en,007_the-wonderful-slave.html,The Wonderful Slave,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,2241
+jewish_fairy_book_en,008_about-leviathan-king-of-the-fish.html,"About Leviathan, King of the Fish",Gerald Friedlander,1920,Talmud/Midrash retelling,clean,3350
+jewish_fairy_book_en,009_the-demons-marriage.html,The Demon's Marriage,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,4255
+jewish_fairy_book_en,010_the-magic-leaf.html,The Magic Leaf,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,898
+jewish_fairy_book_en,011_the-prince-and-the-rabbi.html,The Prince and the Rabbi,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,838
+jewish_fairy_book_en,012_the-princess-and-the-beggar.html,The Princess and the Beggar,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,2282
+jewish_fairy_book_en,013_the-castle-in-the-air.html,The Castle in the Air,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,2248
+jewish_fairy_book_en,014_the-citizen-of-the-world.html,The Citizen of the World,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,194
+jewish_fairy_book_en,015_the-snakes-thanks.html,The Snake's Thanks,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,1736
+jewish_fairy_book_en,016_the-rebellious-waters.html,The Rebellious Waters,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,389
+jewish_fairy_book_en,017_the-goblin-and-the-princess.html,The Goblin and the Princess,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,2306
+jewish_fairy_book_en,018_iron-and-the-trees.html,Iron and the Trees,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,438
+jewish_fairy_book_en,019_david-and-the-insects.html,David and the Insects,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,1649
+jewish_fairy_book_en,020_the-first-vineyard.html,The First Vineyard,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,576
+jewish_fairy_book_en,021_abrahams-tree.html,Abraham's Tree,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,344
+jewish_fairy_book_en,022_joseph-the-sabbath-lover.html,"Joseph, the Sabbath Lover",Gerald Friedlander,1920,Talmud/Midrash retelling,clean,1643
+jewish_fairy_book_en,023_the-magic-sword-of-kenaz.html,The Magic Sword of Kenaz,Gerald Friedlander,1920,Talmud/Midrash retelling,clean,1921
+landa_en,001_the-palace-of-the-eagles.html,The Palace of the Eagles,Gertrude Landa,1919,Talmud/Midrash retelling,clean,2279
+landa_en,002_the-giant-of-the-flood.html,The Giant of the Flood,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1549
+landa_en,003_the-fairy-princess-of-ergetz.html,The Fairy Princess of Ergetz,Gertrude Landa,1919,Talmud/Midrash retelling,clean,6216
+landa_en,004_the-higgledy-piggledy-palace.html,The Higgledy-Piggledy Palace,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1620
+landa_en,005_the-red-slipper.html,The Red Slipper,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1850
+landa_en,006_the-star-child.html,The Star-Child,Gertrude Landa,1919,Talmud/Midrash retelling,clean,2067
+landa_en,007_abi-fressahs-feast.html,Abi Fressah's Feast,Gertrude Landa,1919,Talmud/Midrash retelling,clean,2477
+landa_en,008_the-beggar-king.html,The Beggar King,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1181
+landa_en,009_the-quarrel-of-the-cat-and-dog.html,The Quarrel of the Cat and Dog,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1377
+landa_en,010_the-water-babe.html,The Water-Babe,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1150
+landa_en,011_sinbad-of-the-talmud.html,Sinbad of the Talmud,Gertrude Landa,1919,Talmud/Midrash retelling,clean,3437
+landa_en,012_the-outcast-prince.html,The Outcast Prince,Gertrude Landa,1919,Talmud/Midrash retelling,clean,2156
+landa_en,013_the-story-of-bostanai.html,The Story of Bostanai,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1725
+landa_en,014_from-shepherd-boy-to-king.html,From Shepherd-Boy to King,Gertrude Landa,1919,Talmud/Midrash retelling,clean,887
+landa_en,015_the-magic-palace.html,The Magic Palace,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1572
+landa_en,016_the-sleep-of-one-hundred-years.html,The Sleep of One Hundred Years,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1153
+landa_en,017_king-for-three-days.html,King for Three Days,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1371
+landa_en,018_the-palace-in-the-clouds.html,The Palace in the Clouds,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1908
+landa_en,019_the-popes-game-of-chess.html,The Pope's Game of Chess,Gertrude Landa,1919,Talmud/Midrash retelling,clean,2162
+landa_en,020_the-slaves-fortune.html,The Slave's Fortune,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1651
+landa_en,021_the-paradise-in-the-sea.html,The Paradise in the Sea,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1626
+landa_en,022_the-rabbis-bogey-man.html,The Rabbi's Bogey-Man,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1291
+landa_en,023_the-fairy-frog.html,The Fairy Frog,Gertrude Landa,1919,Talmud/Midrash retelling,clean,1066
+landa_en,024_the-princess-of-the-tower.html,The Princess of the Tower,Gertrude Landa,1919,Talmud/Midrash retelling,clean,3496
+landa_en,025_king-alexanders-adventures.html,King Alexander's Adventures,Gertrude Landa,1919,Talmud/Midrash retelling,clean,3783
+rapaport_en,001_alexander-of-macedon.html,Alexander of Macedon,Samuel Rapaport,1907,Midrash source-book,ocr,4699
+rapaport_en,002_demons.html,Demons,Samuel Rapaport,1907,Midrash source-book,ocr,1725
+rapaport_en,003_ashmedai-the-king-of-demons.html,"Ashmedai, the King of Demons",Samuel Rapaport,1907,Midrash source-book,ocr,4680
+rapaport_en,004_messiah.html,Messiah,Samuel Rapaport,1907,Midrash source-book,ocr,4645
+rapaport_en,005_genesis-rabba.html,Genesis Rabba,Samuel Rapaport,1907,Midrash source-book,ocr,10730
+rapaport_en,006_exodus-rabba.html,Exodus Rabba,Samuel Rapaport,1907,Midrash source-book,ocr,8316
+rapaport_en,007_leviticus-rabba.html,Leviticus Rabba,Samuel Rapaport,1907,Midrash source-book,ocr,5806
+rapaport_en,008_numbers-rabba.html,Numbers Rabba,Samuel Rapaport,1907,Midrash source-book,ocr,5924
+rapaport_en,009_deuteronomy-rabba.html,Deuteronomy Rabba,Samuel Rapaport,1907,Midrash source-book,ocr,4332
+rapaport_en,010_midrash-ruth.html,Midrash Ruth,Samuel Rapaport,1907,Midrash source-book,ocr,2410
+rapaport_en,011_midrash-song-of-songs.html,Midrash Song of Songs,Samuel Rapaport,1907,Midrash source-book,ocr,3212
+rapaport_en,012_midrash-ecclesiastes.html,Midrash Ecclesiastes,Samuel Rapaport,1907,Midrash source-book,ocr,3688
+rapaport_en,013_midrash-lamentations.html,Midrash Lamentations,Samuel Rapaport,1907,Midrash source-book,ocr,2437
+rapaport_en,014_midrash-esther.html,Midrash Esther,Samuel Rapaport,1907,Midrash source-book,ocr,1339
+rapaport_en,015_midrash-psalms.html,Midrash Psalms,Samuel Rapaport,1907,Midrash source-book,ocr,4760
+rapaport_en,016_midrash-proverbs.html,Midrash Proverbs,Samuel Rapaport,1907,Midrash source-book,ocr,929
+rapaport_en,017_midrash-samuel.html,Midrash Samuel,Samuel Rapaport,1907,Midrash source-book,ocr,1284
+rapaport_en,018_midrash-tanchumah-yelamdinu.html,Midrash Tanchumah (Yelamdinu),Samuel Rapaport,1907,Midrash source-book,ocr,11850
+weinreich_en,001_naked-truth-and-resplendent-parable.html,Naked Truth and Resplendent Parable,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,002_a-bit-of-herring-a-pinch-of-salt-and-a-morsel-of-bread.html,"A Bit of Herring, a Pinch of Salt, and a Morsel of Bread",Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,003_things-can-always-get-worse.html,Things Can Always Get Worse,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,004_the-luck-that-snored.html,The Luck That Snored,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,005_the-fever-and-the-flea.html,The Fever and the Flea,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,006_why-dogs-chase-cats-and-cats-chase-mice.html,Why Dogs Chase Cats and Cats Chase Mice,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,007_wisdom-or-luck.html,Wisdom or Luck?,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,008_pleasing-all-the-world.html,Pleasing All the World,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,009_poverty-grows-and-grows.html,Poverty Grows and Grows,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,010_the-sacrifice-of-isaac-and-the-caretaker-of-brisk.html,The Sacrifice of Isaac and the Caretaker of Brisk,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,011_the-treasure-at-home.html,The Treasure at Home,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,012_a-fable-of-a-bird-and-her-chicks.html,A Fable of a Bird and Her Chicks,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,013_letting-in-the-light.html,Letting In the Light,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,014_bad-luck.html,Bad Luck,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,015_a-nonsense-tale.html,A Nonsense Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,016_a-purim-tale.html,A Purim Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,017_a-tale-of-two-brothers.html,A Tale of Two Brothers,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,018_the-foolish-youth-and-elijah-the-prophet.html,The Foolish Youth and Elijah the Prophet,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,019_the-kings-lost-daughter.html,The King's Lost Daughter,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,020_the-magic-fish-and-the-wishing-ring.html,The Magic Fish and the Wishing Ring,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,021_the-hunchbacks-and-the-dancing-demons.html,The Hunchbacks and the Dancing Demons,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,022_the-princess-of-the-third-pumpkin.html,The Princess of the Third Pumpkin,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,023_stones-and-bones-rattle-in-my-belly.html,Stones and Bones Rattle in My Belly,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,024_sore-khone-at-the-tip-of-the-church-tower.html,Sore Khone at the Tip of the Church Tower,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,025_little-bean.html,Little Bean,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,026_a-topsy-turvy-tale.html,A Topsy-Turvy Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,027_clever-khashinke-and-foolish-bashinke.html,Clever Khashinke and Foolish Bashinke,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,028_the-granny-bear.html,The Granny Bear,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,029_moyshele-and-sheyndele.html,Moyshele and Sheyndele,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,030_next-time-thats-what-ill-say.html,Next Time That's What I'll Say,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,031_the-naughty-little-girl.html,The Naughty Little Girl,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,032_the-orphan-boy-who-won-the-bride.html,The Orphan Boy Who Won the Bride,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,033_forty-hares-and-a-princess.html,Forty Hares and a Princess,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,034_hang-the-moon-on-my-palace-roof.html,Hang the Moon on My Palace Roof,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,035_the-sorcerers-apprentice.html,The Sorcerer's Apprentice,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,036_the-beggar-king-and-the-melamed.html,The Beggar King and the Melamed,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,037_of-nettles-and-roses.html,Of Nettles and Roses,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,038_the-demon-and-sosye.html,The Demon and Sosye,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,039_how-much-do-you-love-me.html,How Much Do You Love Me?,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,040_the-master-thief.html,The Master Thief,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,041_the-orphan-boys.html,The Orphan Boys,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,042_two-brothers-who-went-to-the-devil.html,Two Brothers Who Went to the Devil,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,043_the-snake-bridegroom.html,The Snake Bridegroom,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,044_the-merchants-son-and-the-demons.html,The Merchant's Son and the Demons,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,045_the-ram-the-basket-and-the-stick.html,"The Ram, the Basket, and the Stick",Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,046_the-golden-feather.html,The Golden Feather,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,047_the-tale-of-a-stingy-woman.html,The Tale of a Stingy Woman,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,048_the-wheat-poured-in-at-the-door.html,The Wheat Poured In at the Door,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,049_in-heaven-and-hell.html,In Heaven and Hell,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,050_the-miracle-of-the-tree.html,The Miracle of the Tree,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,051_the-poor-mans-ruble.html,The Poor Man's Ruble,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,052_blood-and-water.html,Blood and Water,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,053_a-letter-to-god.html,A Letter to God,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,054_the-seven-good-years.html,The Seven Good Years,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,055_set-a-trap-for-another.html,Set a Trap for Another,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,056_a-sukkos-tale.html,A Sukkos Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,057_only-eleven-little-fish.html,Only Eleven Little Fish,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,058_a-passover-tale.html,A Passover Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,059_a-shocking-tale-of-a-viceroy.html,A Shocking Tale of a Viceroy,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,060_the-leper-boy-and-elijah-the-prophet.html,The Leper Boy and Elijah the Prophet,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,061_a-tragic-tale.html,A Tragic Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,062_upon-me.html,Upon Me,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,063_the-ballad-of-the-faithful-wife.html,The Ballad of the Faithful Wife,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,064_the-iron-chest.html,The Iron Chest,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,065_water-wouldnt-hurt.html,Water Wouldn't Hurt,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,066_holding-on-to-one-quarter-of-my-world.html,Holding On to One-Quarter of My World,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,067_the-poor-rabbi-and-his-three-daughters.html,The Poor Rabbi and His Three Daughters,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,068_a-riddle-tale.html,A Riddle Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,069_then-wheres-the-cat.html,Then Where's the Cat?,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,070_the-best-for-my-wife.html,The Best for My Wife,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,071_another-riddle-tale.html,Another Riddle Tale,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,072_good-manners-and-foolish-khushim.html,Good Manners and Foolish Khushim,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,073_khushim-and-his-bride.html,Khushim and His Bride,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,074_the-tale-of-a-leaf-from-the-tree-of-knowledge.html,The Tale of a Leaf from the Tree of Knowledge,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,075_reb-hershele-and-the-goose-leg.html,Reb Hershele and the Goose Leg,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,076_hershele-ostropolyer-and-the-sabbath-caftan.html,Hershele Ostropolyer and the Sabbath Caftan,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,077_the-angel-spills-the-jar-of-fools.html,The Angel Spills the Jar of Fools,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,078_the-hill-pushed-away.html,The Hill Pushed Away,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,079_how-khelmites-lighted-up-the-night.html,How Khelmites Lighted Up the Night,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,080_the-melameds-trunk.html,The Melamed's Trunk,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,081_the-rolling-stone.html,The Rolling Stone,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,082_the-missed-moment-of-redemption.html,The Missed Moment of Redemption,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,083_the-mekarev-rebbe-gets-even-with-a-stingy-woman.html,The Mekarev Rebbe Gets Even with a Stingy Woman,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,084_the-happy-pair-and-the-baal-shem-tov.html,The Happy Pair and the Baal Shem Tov,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,085_the-fleet-footed-tomeshef-rebbe.html,The Fleet-Footed Tomeshef Rebbe,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,086_the-right-order-is-important.html,The Right Order Is Important,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,087_reb-khaim-urbakh-rocks-a-cradle-on-yom-kippur.html,Reb Khaim Urbakh Rocks a Cradle on Yom Kippur,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,088_the-miracle-of-the-dry-well.html,The Miracle of the Dry Well,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,089_the-reincarnation-of-queen-esther.html,The Reincarnation of Queen Esther,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,090_the-penitent-and-the-rebbe-of-tshekhenove.html,The Penitent and the Rebbe of Tshekhenove,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,091_the-boy-who-put-two-socks-on-one-foot.html,The Boy Who Put Two Socks on One Foot,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,092_the-power-of-the-mourners-prayer.html,The Power of the Mourner's Prayer,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,093_the-curious-disciple.html,The Curious Disciple,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,094_reb-malkiel-and-the-702-candles.html,Reb Malkiel and the 702 Candles,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,095_a-modern-miracle.html,A Modern Miracle,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,096_how-judah-halevi-entered-heaven-alive.html,How Judah Halevi Entered Heaven Alive,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,097_rabbi-joshua-and-the-emperor-of-rome.html,Rabbi Joshua and the Emperor of Rome,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,098_a-wonderful-legend-of-a-cave.html,A Wonderful Legend of a Cave,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,099_waiting-for-the-messiah.html,Waiting for the Messiah,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,100_the-torah-of-my-servant-moses.html,The Torah of My Servant Moses,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,101_a-disputation.html,A Disputation,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,102_he-has-only-one-weakness.html,He Has Only One Weakness,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,103_evening-the-score.html,Evening the Score,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,104_reb-leybele-of-mir-goes-to-the-marketplace.html,Reb Leybele of Mir Goes to the Marketplace,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,105_napoleon-the-first-and-the-jewish-officer.html,Napoleon the First and the Jewish Officer,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,106_napoleon-in-vilna.html,Napoleon in Vilna,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,107_the-cantonists-mother-and-nicholas-the-first.html,The Cantonist's Mother and Nicholas the First,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,108_czar-nicholas-decrees-the-burning-of-the-talmud.html,Czar Nicholas Decrees the Burning of the Talmud,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,109_the-poor-man-and-rothschild.html,The Poor Man and Rothschild,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,110_rothschilds-shoes.html,Rothschild's Shoes,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,111_the-shoemaker-and-the-shretelekh.html,The Shoemaker and the Shretelekh,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,112_the-synagogue-the-church-and-the-town-hall.html,"The Synagogue, the Church, and the Town Hall",Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,113_the-transmigrating-soul.html,The Transmigrating Soul,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,114_whos-milking-the-cows.html,Who's Milking the Cows?,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,115_the-passover-elf-helps-great-grandmother.html,The Passover Elf Helps Great-Grandmother,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,116_the-blacksmith-and-the-horses-with-human-hands.html,The Blacksmith and the Horses with Human Hands,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,117_the-mysterious-gold-chain.html,The Mysterious Gold Chain,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,118_the-unquiet-grave.html,The Unquiet Grave,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,119_the-large-stone-synagogue-of-berditshev.html,The Large Stone Synagogue of Berditshev,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,120_the-golem-of-vilna.html,The Golem of Vilna,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,121_the-baal-shem-tov-and-the-gilgl.html,The Baal Shem Tov and the Gilgl,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,122_the-shretele-that-took-a-little-nip.html,The Shretele That Took a Little Nip,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,123_the-lost-hat-and-the-pile-of-gold.html,The Lost Hat and the Pile of Gold,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,124_the-miracle-of-the-beer-keg.html,The Miracle of the Beer Keg,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,125_how-doves-saved-a-synagogue-from-fire.html,How Doves Saved a Synagogue from Fire,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,126_a-cave-that-leads-to-the-land-of-israel.html,A Cave That Leads to the Land of Israel,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,127_late-night-spooks.html,Late-Night Spooks,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,128_the-missing-bridegroom.html,The Missing Bridegroom,Various (YIVO zamlers),1988,E-European oral mayse,stub,0
+weinreich_en,129_the-trustees.html,The Trustees,Various (YIVO zamlers),1988,E-European oral mayse,stub,0

@@ -1,0 +1,39 @@
+body {
+    color: Black;
+    background: White;
+    font-family: "Times New Roman", serif;
+    text-align: justify
+    }
+@media screen {
+    body {
+        margin-right: 10%;
+        margin-left: 10%
+        }
+    }
+.pagedjs_page_content > div {
+    margin-right: 10%;
+    margin-left: 10%
+    }
+p {
+    text-indent: 4%
+    }
+p.noindent {
+    text-indent: 0%
+    }
+p.poem {
+    text-indent: 0%;
+    margin-left: 10%;
+    font-size: small
+    }
+p.footnote {
+    font-size: smaller;
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+p.finis {
+    text-align: center;
+    text-indent: 0%;
+    margin-left: 0%;
+    margin-right: 0%
+    }

@@ -1,0 +1,7 @@
+# Scratch / cache — not needed by the remote harvester
+.cache/
+.claude/skills/folktale-harvester-workspace/
+.claude/settings.local.json
+.DS_Store
+*.pyc
+__pycache__/
