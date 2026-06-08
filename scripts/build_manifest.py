@@ -54,6 +54,12 @@ COLLECTIONS = [
     ("shan_griggs_en",        "William C. Griggs",   "en", "Gutenberg #32375 (Shan Folk Lore Stories, 1902)"),
     ("tibetan_folktales_en",  "A. L. Shelton",       "en", "Gutenberg #75000 (Folk Tales from Tibet, 1925)"),
 
+    # Italian folk-tale and fairy-tale collections
+    ("italian_crane_en",       "Thomas Frederick Crane",    "en", "Gutenberg #23634 (Italian Popular Tales, 1885)"),
+    ("italian_basile_en",      "Giambattista Basile",       "en", "Gutenberg #2198 (Stories from the Pentamerone, orig. 1634)"),
+    ("italian_busk_en",        "Rachel Harriette Busk",     "en", "Gutenberg #48771 (Roman Legends, 1877)"),
+    ("italian_straparola_v1_en","Giovanni F. Straparola (trans. Waters)", "en", "Gutenberg #75257 (Nights of Straparola Vol. 1, 1894)"),
+
     # French folk-tale and fairy-tale collections
     ("french_perrault_en",   "Charles Perrault",    "en", "Gutenberg #29021 (Fairy Tales of Perrault, Harrap 1922)"),
     ("french_daulnoy_en",    "Madame d'Aulnoy (trans. Macdonell & Lee)", "en", "archive.org fairytalesmadam00dgoog (1892)"),
