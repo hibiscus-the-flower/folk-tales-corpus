@@ -61,7 +61,12 @@ COLLECTIONS = [
     # Portuguese folk-tale collections
     ("portuguese_eells_azores_en", "Elsie Spicer Eells", "en", "Gutenberg #34431 (Islands of Magic: Azores, 1922)"),
 
-    # Swedish folk-tale collections
+    # Icelandic, Welsh, Finnish collections
+    ("icelandic_hall_en",  "Mrs. Angus W. Hall",            "en", "Gutenberg #67085 (Icelandic Fairy Tales, 1897)"),
+    ("welsh_guest_en",     "Lady Charlotte Guest (trans.)",  "en", "Gutenberg #5160 (The Mabinogion, 1849)"),
+    ("finnish_eivind_en",  "R. Eivind (Kalevala adaptation)","en", "Gutenberg #24948 (Finnish Legends for English Children, c1893)"),
+
+        # Swedish folk-tale collections
     ("swedish_hofberg_en",  "Herman Hofberg (trans. W. H. Myers)", "en", "Gutenberg #73093 (Swedish Fairy Tales, 1893)"),
     ("swedish_stroebe_en",  "Clara Stroebe (trans. Frederick Herman Martens)", "en", "Gutenberg #37193 (The Swedish Fairy Book, 1921)"),
 
